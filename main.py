@@ -14,7 +14,6 @@ def extract_beetween_td(current_line):
 def read_parse_insert(file_name):
     print("START PARSING . . . ")
     print("I just get file " + file_name)
-    infile = open(file_name, "r")
     counter = 0
     f = open(file_name, 'r+')
     print("====================")
@@ -44,21 +43,32 @@ def read_parse_insert(file_name):
 
                 open_value = line_iter.__next__()
                 open_value = extract_beetween_td(open_value)
-                print("open " + open_value)
+
 
                 max = line_iter.__next__()
                 max = extract_beetween_td(max)
-                print("max " + max)
+
 
                 min = line_iter.__next__()
                 min = extract_beetween_td(min)
-                print("min " + min)
+
 
 
                 close = line_iter.__next__()
                 close = extract_beetween_td(close)
-                print("close " + close)
 
+
+                if(open_value == '0,00'):
+                    print("Revert Values")
+                    open_value=close
+                    max=close
+                    min=close
+
+
+                print("open " + open_value)
+                print("max " + max)
+                print("min " + min)
+                print("close " + close)
                 print("====================")
 
     f.close()
@@ -73,8 +83,9 @@ def Downloader():
     end_date = now.strftime("%Y-%m-%d")
 
 
+    #change it if you wat read actions from custom data
+    history_reader = 0
 
-    history_reader = 1
     condition = 1
     counter_for_date = 1
 
@@ -103,10 +114,26 @@ def Downloader():
                 os.remove(local_file)
                 current_date = date.today() - timedelta(counter_for_date)
                 counter_for_date+=1
-        if str(current_date) < lim:
-            print("I cannot download anything")
-            condition=false
+            if str(current_date) < lim:
+                print("I cannot download anything")
+                condition=false
 
+        else:
+            print("Enter date manualy")
+            print("Date format: YYYY-MM-DD")
+            current_date  = input('Enter your input:')
+            file_url = 'https://www.gpw.pl/notowania_archiwalne_full?type=10&date=' + str(current_date)
+            local_file = str(current_date) + "_gpw_info.txt"
+            file_name = wget.download(file_url, local_file)
+            result = read_parse_insert(local_file)
+            if result == 1:
+                print("Read - ok Parse - ok Insert - ok , I can delete files")
+                os.remove(local_file)
+                break
+            if result == 0:
+                print("Cannot find anything, delete tmp file")
+                os.remove(local_file)
+                break
 
 
 
