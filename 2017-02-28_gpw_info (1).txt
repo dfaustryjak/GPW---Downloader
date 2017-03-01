@@ -1,0 +1,6441 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="notowania, Akcje i PDA - notowania ciągłe, Akcje i PDA - notowania jednolite, ETF-y, Prawa poboru - notowania ciągłe, Prawa poboru - notowania jednolite, Instrumenty pochodne,Certyfikaty inwestycyjne" /><meta name="description" content="GPW.pl - Archiwum Notowań" />
+<meta name="robots" content="index, follow" />
+<meta name="revisit-after" content="5 days" /><meta name="author" content="SUPERMEDIA Interactive" />
+<title>GPW.pl - Archiwum Notowań</title>
+<meta http-equiv="Content-Language" content="PL" />
+<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<link rel="stylesheet" type="text/css" href="https://static.gpw.pl/html/themes/v4/css/style_new.css" />
+    <link rel="stylesheet" type="text/css" href="https://static.gpw.pl/html/themes/v4/css/style.css" />
+<link rel="stylesheet" type="text/css" href="https://static.gpw.pl/html/themes/v4/css/override.css" />
+<link rel="stylesheet" type="text/css" href="https://static.gpw.pl/html/javascript/jquery-ui/css/v4/jquery-ui-1.8.5.css" />
+<link rel="stylesheet" type="text/css" href="https://static.gpw.pl/html/themes/v4/css/uniform.default.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://static.gpw.pl/html/themes/v4/css/jquery.lightbox-0.5.css" media="screen" />
+
+	
+	<script language="javascript" type="text/javascript">
+	var main_page_left_column_box_order = [];
+	var main_page_center_column_box_order = [];
+	var main_page_right_column_box_order = [];
+</script>
+            <script language="javascript" type="text/javascript" src="https://static.gpw.pl/html/javascript/lang/PL.js"></script>
+            <script language="javascript" type="text/javascript" src="https://static.gpw.pl/html/javascript/swfobject/swfobject.js"></script>
+            <script language="javascript" type="text/javascript" src="https://static.gpw.pl/html/javascript/jquery-1.4.4.min.js"></script>
+            <script language="javascript" type="text/javascript" src="https://static.gpw.pl/html/javascript/jquery-ui/js/jquery-ui-1.8.5.min.js"></script>
+            <script language="javascript" type="text/javascript" src="https://static.gpw.pl/html/javascript/jquery-ui/js/jquery.ui.extended.js"></script>
+            <script language="javascript" type="text/javascript" src="https://static.gpw.pl/html/javascript/jquery-ui/js/jquery.ui.tabs.scrollable.js"></script>
+            <script language="javascript" type="text/javascript" src="https://static.gpw.pl/html/javascript/jquery.uniform.js"></script>
+            <script language="javascript" type="text/javascript" src="https://static.gpw.pl/html/javascript/jquery.jclock.min.js"></script>
+            <script language="javascript" type="text/javascript" src="https://static.gpw.pl/html/javascript/jquery.thead-1.1.min.js"></script>
+            <script language="javascript" type="text/javascript" src="https://static.gpw.pl/html/javascript/jquery.validate.min.js"></script>
+            <script language="javascript" type="text/javascript" src="https://static.gpw.pl/html/javascript/jquery.rotator.js"></script>
+            <script language="javascript" type="text/javascript" src="https://static.gpw.pl/html/javascript/tools_v4.js"></script>
+            <script language="javascript" type="text/javascript" src="https://static.gpw.pl/html/javascript/jquery.pagination.js"></script>
+            <script language="javascript" type="text/javascript" src="https://static.gpw.pl/html/javascript/jquery.waterwheelCarousel.js"></script>
+            <script language="javascript" type="text/javascript" src="https://static.gpw.pl/html/javascript/jquery-ui/js/ui.datepicker-pl.js"></script>
+    
+	<base target="_top" />
+	<style type="text/css" id="antiClickjack">
+		body { display:none !important; }
+	</style>
+	<script type="text/javascript">
+		if( self === top ) {
+			var antiClickjack = document.getElementById("antiClickjack");
+			antiClickjack.parentNode.removeChild( antiClickjack );
+		}
+		else {
+			top.location = self.location;
+		}
+	</script>
+
+	
+<script language="javascript" type="text/javascript">
+var BASE_URL = "https://www.gpw.pl/";
+var STATIC_URL = "https://static.gpw.pl/";
+var AJAX_BASE_URL = "/";
+var NOW = 1488372417000;
+var UTC_OFFSET = '1';
+var LANG = 'PL';
+var THEME = 'v4';
+</script>
+<script language="JavaScript" type="text/javascript" src="https://static.gpw.pl/cookies/cookie_info_pl.js"></script>
+<script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-20892204-5']);
+_gaq.push(['_trackPageview']);
+(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+</script></head>
+<body class="nobg">
+    <div style="padding: 20px;">
+	<!--UdmComment-->
+		
+
+<div id="path">Jesteś tutaj:&nbsp;<a href="https://www.gpw.pl/root">Strona główna - GPW</a> &#8250; <a href="https://www.gpw.pl/notowania">Notowania</a> &#8250; <a href="https://www.gpw.pl/notowania_archiwalne">Archiwum notowań</a> &#8250; <span class="active">Archiwum Notowań</span></div>
+	
+	
+
+
+
+
+<h1>Archiwum Notowań</h1>
+
+
+<div class="mb10px w100pr">
+	<div class="colFL">28-02-2017</div>
+	<div class="clear"></div>
+</div>
+
+			
+<table class="tab03">
+    <tr>
+        <th class="left">Skrócona nazwa</th>
+        <th class="left">Kod ISIN</th>
+        <th>Waluta</th>
+        <th>Kurs otwarcia</th>
+        <th>Kurs maksymalny</th>
+        <th>Kurs minimalny</th>
+        <th>Kurs zamknięcia</th>
+                <th>Dzienna zmiana kursu (w proc) *</th>
+        <th>Wolumen obrotu (w szt.)</th>
+        <th>Liczba transakcji</th>
+        <th>Wartość obrotu (w tys.)</th>
+    </tr>
+        <tr>
+        <td class="left">06MAGNA</td>
+        <td class="left">PLNFI0600010</td>
+        <td>PLN</td>
+        <td>0,61</td>
+        <td>0,63</td>
+        <td>0,60</td>
+        <td>0,60</td>
+                <td>0,00</td>
+        <td>15&nbsp;863</td>
+        <td>41</td>
+        <td>9,62</td>
+    </tr>
+        <tr>
+        <td class="left">08OCTAVA</td>
+        <td class="left">PLNFI0800016</td>
+        <td>PLN</td>
+        <td>1,05</td>
+        <td>1,06</td>
+        <td>1,05</td>
+        <td>1,06</td>
+                <td>0,95</td>
+        <td>2&nbsp;406</td>
+        <td>12</td>
+        <td>2,54</td>
+    </tr>
+        <tr>
+        <td class="left">11BIT</td>
+        <td class="left">PL11BTS00015</td>
+        <td>PLN</td>
+        <td>193,95</td>
+        <td>193,95</td>
+        <td>187,10</td>
+        <td>192,00</td>
+                <td>0,52</td>
+        <td>9&nbsp;131</td>
+        <td>284</td>
+        <td>1&nbsp;749,74</td>
+    </tr>
+        <tr>
+        <td class="left">4FUNMEDIA</td>
+        <td class="left">PL4FNMD00013</td>
+        <td>PLN</td>
+        <td>4,99</td>
+        <td>4,99</td>
+        <td>4,82</td>
+        <td>4,82</td>
+                <td>-3,41</td>
+        <td>1&nbsp;303</td>
+        <td>8</td>
+        <td>6,37</td>
+    </tr>
+        <tr>
+        <td class="left">AATHOLD</td>
+        <td class="left">PLAATHL00018</td>
+        <td>PLN</td>
+        <td>18,00</td>
+        <td>18,00</td>
+        <td>18,00</td>
+        <td>18,00</td>
+                <td>-0,83</td>
+        <td>1</td>
+        <td>1</td>
+        <td>0,02</td>
+    </tr>
+        <tr>
+        <td class="left">ABADONRE</td>
+        <td class="left">PLVARNT00019</td>
+        <td>PLN</td>
+        <td>5,90</td>
+        <td>5,90</td>
+        <td>5,90</td>
+        <td>5,90</td>
+                <td>0,00</td>
+        <td>283</td>
+        <td>4</td>
+        <td>1,67</td>
+    </tr>
+        <tr>
+        <td class="left">ABCDATA</td>
+        <td class="left">PLABCDT00014</td>
+        <td>PLN</td>
+        <td>2,35</td>
+        <td>2,44</td>
+        <td>2,35</td>
+        <td>2,41</td>
+                <td>2,55</td>
+        <td>646&nbsp;860</td>
+        <td>267</td>
+        <td>1&nbsp;557,54</td>
+    </tr>
+        <tr>
+        <td class="left">ABMSOLID</td>
+        <td class="left">PLABMSD00015</td>
+        <td>PLN</td>
+        <td>8,88</td>
+        <td>8,88</td>
+        <td>8,40</td>
+        <td>8,88</td>
+                <td>0,00</td>
+        <td>200</td>
+        <td>15</td>
+        <td>1,75</td>
+    </tr>
+        <tr>
+        <td class="left">ABPL</td>
+        <td class="left">PLAB00000019</td>
+        <td>PLN</td>
+        <td>35,75</td>
+        <td>35,75</td>
+        <td>35,51</td>
+        <td>35,74</td>
+                <td>-0,69</td>
+        <td>3&nbsp;055</td>
+        <td>15</td>
+        <td>108,51</td>
+    </tr>
+        <tr>
+        <td class="left">ACAUTOGAZ</td>
+        <td class="left">PLACSA000014</td>
+        <td>PLN</td>
+        <td>41,00</td>
+        <td>41,40</td>
+        <td>40,90</td>
+        <td>40,90</td>
+                <td>0,00</td>
+        <td>832</td>
+        <td>13</td>
+        <td>34,11</td>
+    </tr>
+        <tr>
+        <td class="left">ACTION</td>
+        <td class="left">PLACTIN00018</td>
+        <td>PLN</td>
+        <td>4,17</td>
+        <td>4,24</td>
+        <td>4,15</td>
+        <td>4,18</td>
+                <td>0,00</td>
+        <td>14&nbsp;837</td>
+        <td>54</td>
+        <td>62,17</td>
+    </tr>
+        <tr>
+        <td class="left">ADIUVO</td>
+        <td class="left">PLADVIV00015</td>
+        <td>PLN</td>
+        <td>27,49</td>
+        <td>27,49</td>
+        <td>27,00</td>
+        <td>27,00</td>
+                <td>-1,46</td>
+        <td>26</td>
+        <td>3</td>
+        <td>0,70</td>
+    </tr>
+        <tr>
+        <td class="left">AGORA</td>
+        <td class="left">PLAGORA00067</td>
+        <td>PLN</td>
+        <td>14,58</td>
+        <td>15,10</td>
+        <td>14,57</td>
+        <td>15,10</td>
+                <td>2,72</td>
+        <td>89&nbsp;039</td>
+        <td>47</td>
+        <td>1&nbsp;333,62</td>
+    </tr>
+        <tr>
+        <td class="left">AGROTON</td>
+        <td class="left">CY0101062111</td>
+        <td>PLN</td>
+        <td>6,21</td>
+        <td>6,29</td>
+        <td>6,13</td>
+        <td>6,22</td>
+                <td>-1,11</td>
+        <td>26&nbsp;295</td>
+        <td>86</td>
+        <td>162,81</td>
+    </tr>
+        <tr>
+        <td class="left">AGROWILL</td>
+        <td class="left">LT0000127466</td>
+        <td>PLN</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>1,80</td>
+                <td>0,00</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0,00</td>
+    </tr>
+        <tr>
+        <td class="left">AILLERON</td>
+        <td class="left">PLWNDMB00010</td>
+        <td>PLN</td>
+        <td>8,99</td>
+        <td>9,20</td>
+        <td>8,98</td>
+        <td>9,20</td>
+                <td>2,22</td>
+        <td>7&nbsp;949</td>
+        <td>26</td>
+        <td>72,66</td>
+    </tr>
+        <tr>
+        <td class="left">AIRWAY</td>
+        <td class="left">PLAIRWY00017</td>
+        <td>PLN</td>
+        <td>1,96</td>
+        <td>2,03</td>
+        <td>1,91</td>
+        <td>2,03</td>
+                <td>4,10</td>
+        <td>75&nbsp;709</td>
+        <td>61</td>
+        <td>148,85</td>
+    </tr>
+        <tr>
+        <td class="left">ALCHEMIA</td>
+        <td class="left">PLGRBRN00012</td>
+        <td>PLN</td>
+        <td>5,08</td>
+        <td>5,08</td>
+        <td>5,03</td>
+        <td>5,03</td>
+                <td>-0,98</td>
+        <td>106&nbsp;713</td>
+        <td>17</td>
+        <td>539,12</td>
+    </tr>
+        <tr>
+        <td class="left">ALIOR</td>
+        <td class="left">PLALIOR00045</td>
+        <td>PLN</td>
+        <td>65,60</td>
+        <td>65,65</td>
+        <td>63,00</td>
+        <td>65,42</td>
+                <td>0,34</td>
+        <td>326&nbsp;787</td>
+        <td>1&nbsp;977</td>
+        <td>21&nbsp;080,81</td>
+    </tr>
+        <tr>
+        <td class="left">ALMA</td>
+        <td class="left">PLKRCHM00015</td>
+        <td>PLN</td>
+        <td>1,34</td>
+        <td>1,38</td>
+        <td>1,31</td>
+        <td>1,32</td>
+                <td>-2,22</td>
+        <td>86&nbsp;366</td>
+        <td>85</td>
+        <td>114,52</td>
+    </tr>
+        <tr>
+        <td class="left">ALTA</td>
+        <td class="left">PLTRNSU00013</td>
+        <td>PLN</td>
+        <td>3,54</td>
+        <td>3,54</td>
+        <td>3,54</td>
+        <td>3,54</td>
+                <td>4,12</td>
+        <td>1</td>
+        <td>1</td>
+        <td>0,00</td>
+    </tr>
+        <tr>
+        <td class="left">ALTUSTFI</td>
+        <td class="left">PLATTFI00018</td>
+        <td>PLN</td>
+        <td>14,00</td>
+        <td>14,30</td>
+        <td>13,93</td>
+        <td>14,30</td>
+                <td>2,14</td>
+        <td>17&nbsp;436</td>
+        <td>54</td>
+        <td>245,68</td>
+    </tr>
+        <tr>
+        <td class="left">ALUMETAL</td>
+        <td class="left">PLALMTL00023</td>
+        <td>PLN</td>
+        <td>61,10</td>
+        <td>61,10</td>
+        <td>60,01</td>
+        <td>60,45</td>
+                <td>-0,33</td>
+        <td>8&nbsp;764</td>
+        <td>115</td>
+        <td>527,86</td>
+    </tr>
+        <tr>
+        <td class="left">AMBRA</td>
+        <td class="left">PLAMBRA00013</td>
+        <td>PLN</td>
+        <td>9,14</td>
+        <td>9,31</td>
+        <td>9,14</td>
+        <td>9,20</td>
+                <td>0,55</td>
+        <td>15&nbsp;995</td>
+        <td>50</td>
+        <td>147,82</td>
+    </tr>
+        <tr>
+        <td class="left">AMICA</td>
+        <td class="left">PLAMICA00010</td>
+        <td>PLN</td>
+        <td>192,90</td>
+        <td>192,90</td>
+        <td>185,60</td>
+        <td>188,50</td>
+                <td>-3,83</td>
+        <td>19&nbsp;510</td>
+        <td>461</td>
+        <td>3&nbsp;651,27</td>
+    </tr>
+        <tr>
+        <td class="left">AMPLI</td>
+        <td class="left">PLAMPLI00019</td>
+        <td>PLN</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,22</td>
+                <td>0,00</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0,00</td>
+    </tr>
+        <tr>
+        <td class="left">AMREST</td>
+        <td class="left">NL0000474351</td>
+        <td>PLN</td>
+        <td>337,00</td>
+        <td>344,25</td>
+        <td>337,00</td>
+        <td>341,50</td>
+                <td>1,34</td>
+        <td>29&nbsp;112</td>
+        <td>105</td>
+        <td>9&nbsp;899,36</td>
+    </tr>
+        <tr>
+        <td class="left">APATOR</td>
+        <td class="left">PLAPATR00018</td>
+        <td>PLN</td>
+        <td>33,37</td>
+        <td>34,00</td>
+        <td>33,37</td>
+        <td>34,00</td>
+                <td>1,52</td>
+        <td>7&nbsp;842</td>
+        <td>37</td>
+        <td>266,25</td>
+    </tr>
+        <tr>
+        <td class="left">APLISENS</td>
+        <td class="left">PLAPLS000016</td>
+        <td>PLN</td>
+        <td>14,40</td>
+        <td>14,40</td>
+        <td>13,65</td>
+        <td>14,40</td>
+                <td>-0,07</td>
+        <td>544</td>
+        <td>4</td>
+        <td>7,60</td>
+    </tr>
+        <tr>
+        <td class="left">APLITT</td>
+        <td class="left">PLTFSKK00015</td>
+        <td>PLN</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,87</td>
+                <td>0,00</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0,00</td>
+    </tr>
+        <tr>
+        <td class="left">APSENERGY</td>
+        <td class="left">PLAPSEN00011</td>
+        <td>PLN</td>
+        <td>4,14</td>
+        <td>4,35</td>
+        <td>4,14</td>
+        <td>4,35</td>
+                <td>0,00</td>
+        <td>745</td>
+        <td>2</td>
+        <td>3,08</td>
+    </tr>
+        <tr>
+        <td class="left">ARCHICOM</td>
+        <td class="left">PLARHCM00016</td>
+        <td>PLN</td>
+        <td>14,99</td>
+        <td>14,99</td>
+        <td>14,99</td>
+        <td>14,99</td>
+                <td>0,54</td>
+        <td>26</td>
+        <td>1</td>
+        <td>0,39</td>
+    </tr>
+        <tr>
+        <td class="left">ARCTIC</td>
+        <td class="left">PLARTPR00012</td>
+        <td>PLN</td>
+        <td>5,58</td>
+        <td>5,58</td>
+        <td>5,45</td>
+        <td>5,46</td>
+                <td>-4,55</td>
+        <td>46&nbsp;699</td>
+        <td>73</td>
+        <td>256,42</td>
+    </tr>
+        <tr>
+        <td class="left">ARCUS</td>
+        <td class="left">PLARCUS00040</td>
+        <td>PLN</td>
+        <td>1,49</td>
+        <td>1,49</td>
+        <td>1,47</td>
+        <td>1,47</td>
+                <td>-2,65</td>
+        <td>2&nbsp;490</td>
+        <td>2</td>
+        <td>3,69</td>
+    </tr>
+        <tr>
+        <td class="left">ARTERIA</td>
+        <td class="left">PLARTER00016</td>
+        <td>PLN</td>
+        <td>10,73</td>
+        <td>10,73</td>
+        <td>10,71</td>
+        <td>10,71</td>
+                <td>0,19</td>
+        <td>2&nbsp;070</td>
+        <td>12</td>
+        <td>22,20</td>
+    </tr>
+        <tr>
+        <td class="left">ARTIFEX</td>
+        <td class="left">PLARTFX00011</td>
+        <td>PLN</td>
+        <td>22,89</td>
+        <td>22,89</td>
+        <td>22,51</td>
+        <td>22,65</td>
+                <td>-1,09</td>
+        <td>831</td>
+        <td>10</td>
+        <td>18,78</td>
+    </tr>
+        <tr>
+        <td class="left">ASBIS</td>
+        <td class="left">CY1000031710</td>
+        <td>PLN</td>
+        <td>3,29</td>
+        <td>3,30</td>
+        <td>3,13</td>
+        <td>3,15</td>
+                <td>-5,12</td>
+        <td>286&nbsp;649</td>
+        <td>343</td>
+        <td>916,51</td>
+    </tr>
+        <tr>
+        <td class="left">ASMGROUP</td>
+        <td class="left">PLASMGR00014</td>
+        <td>PLN</td>
+        <td>5,50</td>
+        <td>5,50</td>
+        <td>5,50</td>
+        <td>5,50</td>
+                <td>0,00</td>
+        <td>952</td>
+        <td>106</td>
+        <td>5,24</td>
+    </tr>
+        <tr>
+        <td class="left">ASSECOBS</td>
+        <td class="left">PLABS0000018</td>
+        <td>PLN</td>
+        <td>24,69</td>
+        <td>24,69</td>
+        <td>24,13</td>
+        <td>24,68</td>
+                <td>2,19</td>
+        <td>695</td>
+        <td>9</td>
+        <td>16,87</td>
+    </tr>
+        <tr>
+        <td class="left">ASSECOPOL</td>
+        <td class="left">PLSOFTB00016</td>
+        <td>PLN</td>
+        <td>55,00</td>
+        <td>56,54</td>
+        <td>54,96</td>
+        <td>56,00</td>
+                <td>1,27</td>
+        <td>117&nbsp;731</td>
+        <td>873</td>
+        <td>6&nbsp;586,88</td>
+    </tr>
+        <tr>
+        <td class="left">ASSECOSEE</td>
+        <td class="left">PLASSEE00014</td>
+        <td>PLN</td>
+        <td>11,60</td>
+        <td>11,74</td>
+        <td>11,60</td>
+        <td>11,68</td>
+                <td>-0,51</td>
+        <td>3&nbsp;056</td>
+        <td>16</td>
+        <td>35,76</td>
+    </tr>
+        <tr>
+        <td class="left">ASSECOSLO</td>
+        <td class="left">SK1120009230</td>
+        <td>PLN</td>
+        <td>29,50</td>
+        <td>30,95</td>
+        <td>27,00</td>
+        <td>27,99</td>
+                <td>-3,85</td>
+        <td>5&nbsp;980</td>
+        <td>73</td>
+        <td>171,49</td>
+    </tr>
+        <tr>
+        <td class="left">ASTARTA</td>
+        <td class="left">NL0000686509</td>
+        <td>PLN</td>
+        <td>66,00</td>
+        <td>66,00</td>
+        <td>63,90</td>
+        <td>65,51</td>
+                <td>0,61</td>
+        <td>3&nbsp;347</td>
+        <td>56</td>
+        <td>217,01</td>
+    </tr>
+        <tr>
+        <td class="left">ATAL</td>
+        <td class="left">PLATAL000046</td>
+        <td>PLN</td>
+        <td>31,85</td>
+        <td>32,00</td>
+        <td>31,00</td>
+        <td>32,00</td>
+                <td>0,47</td>
+        <td>19&nbsp;825</td>
+        <td>41</td>
+        <td>631,46</td>
+    </tr>
+        <tr>
+        <td class="left">ATENDE</td>
+        <td class="left">PLATMSI00016</td>
+        <td>PLN</td>
+        <td>3,92</td>
+        <td>3,92</td>
+        <td>3,92</td>
+        <td>3,92</td>
+                <td>0,00</td>
+        <td>2</td>
+        <td>1</td>
+        <td>0,01</td>
+    </tr>
+        <tr>
+        <td class="left">ATLANTAPL</td>
+        <td class="left">PLATLPL00018</td>
+        <td>PLN</td>
+        <td>6,05</td>
+        <td>6,20</td>
+        <td>5,85</td>
+        <td>6,04</td>
+                <td>-2,42</td>
+        <td>7&nbsp;705</td>
+        <td>123</td>
+        <td>45,89</td>
+    </tr>
+        <tr>
+        <td class="left">ATLANTIS</td>
+        <td class="left">PLATLNT00016</td>
+        <td>PLN</td>
+        <td>0,73</td>
+        <td>0,80</td>
+        <td>0,71</td>
+        <td>0,77</td>
+                <td>10,00</td>
+        <td>953&nbsp;717</td>
+        <td>382</td>
+        <td>738,86</td>
+    </tr>
+        <tr>
+        <td class="left">ATLASEST</td>
+        <td class="left">GB00B0WDBP88</td>
+        <td>PLN</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>1,01</td>
+                <td>0,00</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0,00</td>
+    </tr>
+        <tr>
+        <td class="left">ATM</td>
+        <td class="left">PLATMSA00013</td>
+        <td>PLN</td>
+        <td>11,20</td>
+        <td>11,23</td>
+        <td>11,20</td>
+        <td>11,20</td>
+                <td>0,00</td>
+        <td>11&nbsp;464</td>
+        <td>14</td>
+        <td>128,40</td>
+    </tr>
+        <tr>
+        <td class="left">ATMGRUPA</td>
+        <td class="left">PLATM0000021</td>
+        <td>PLN</td>
+        <td>4,70</td>
+        <td>4,70</td>
+        <td>4,65</td>
+        <td>4,65</td>
+                <td>0,00</td>
+        <td>20&nbsp;192</td>
+        <td>4</td>
+        <td>93,90</td>
+    </tr>
+        <tr>
+        <td class="left">ATREM</td>
+        <td class="left">PLATREM00017</td>
+        <td>PLN</td>
+        <td>2,70</td>
+        <td>2,72</td>
+        <td>2,70</td>
+        <td>2,71</td>
+                <td>0,00</td>
+        <td>6&nbsp;126</td>
+        <td>25</td>
+        <td>16,60</td>
+    </tr>
+        <tr>
+        <td class="left">AUTOPARTN</td>
+        <td class="left">PLATPRT00018</td>
+        <td>PLN</td>
+        <td>4,78</td>
+        <td>4,78</td>
+        <td>4,60</td>
+        <td>4,70</td>
+                <td>-1,88</td>
+        <td>41&nbsp;031</td>
+        <td>72</td>
+        <td>191,22</td>
+    </tr>
+        <tr>
+        <td class="left">AVIAAML</td>
+        <td class="left">LT0000128555</td>
+        <td>PLN</td>
+        <td>4,70</td>
+        <td>4,70</td>
+        <td>4,53</td>
+        <td>4,54</td>
+                <td>-3,40</td>
+        <td>13&nbsp;113</td>
+        <td>51</td>
+        <td>61,09</td>
+    </tr>
+        <tr>
+        <td class="left">AVIASG</td>
+        <td class="left">LT0000128381</td>
+        <td>PLN</td>
+        <td>19,40</td>
+        <td>19,40</td>
+        <td>19,40</td>
+        <td>19,40</td>
+                <td>0,00</td>
+        <td>2</td>
+        <td>1</td>
+        <td>0,04</td>
+    </tr>
+        <tr>
+        <td class="left">AWBUD</td>
+        <td class="left">PLINSTL00011</td>
+        <td>PLN</td>
+        <td>6,55</td>
+        <td>6,55</td>
+        <td>6,19</td>
+        <td>6,55</td>
+                <td>-2,24</td>
+        <td>1&nbsp;262</td>
+        <td>6</td>
+        <td>8,27</td>
+    </tr>
+        <tr>
+        <td class="left">B3SYSTEM</td>
+        <td class="left">PLBSSTM00013</td>
+        <td>PLN</td>
+        <td>0,40</td>
+        <td>0,40</td>
+        <td>0,40</td>
+        <td>0,40</td>
+                <td>2,56</td>
+        <td>2&nbsp;323</td>
+        <td>3</td>
+        <td>0,93</td>
+    </tr>
+        <tr>
+        <td class="left">BACD</td>
+        <td class="left">PLIDATF00012</td>
+        <td>PLN</td>
+        <td>0,14</td>
+        <td>0,14</td>
+        <td>0,14</td>
+        <td>0,14</td>
+                <td>0,00</td>
+        <td>2&nbsp;000</td>
+        <td>2</td>
+        <td>0,28</td>
+    </tr>
+        <tr>
+        <td class="left">BALTONA</td>
+        <td class="left">PLBALTN00014</td>
+        <td>PLN</td>
+        <td>2,89</td>
+        <td>2,89</td>
+        <td>2,70</td>
+        <td>2,74</td>
+                <td>-4,86</td>
+        <td>16&nbsp;900</td>
+        <td>37</td>
+        <td>46,93</td>
+    </tr>
+        <tr>
+        <td class="left">BBIDEV</td>
+        <td class="left">PLNFI1200018</td>
+        <td>PLN</td>
+        <td>0,85</td>
+        <td>0,86</td>
+        <td>0,83</td>
+        <td>0,84</td>
+                <td>-2,33</td>
+        <td>105&nbsp;265</td>
+        <td>50</td>
+        <td>88,17</td>
+    </tr>
+        <tr>
+        <td class="left">BEDZIN</td>
+        <td class="left">PLECBDZ00013</td>
+        <td>PLN</td>
+        <td>24,70</td>
+        <td>25,85</td>
+        <td>24,70</td>
+        <td>25,85</td>
+                <td>4,66</td>
+        <td>50</td>
+        <td>13</td>
+        <td>1,28</td>
+    </tr>
+        <tr>
+        <td class="left">BENEFIT</td>
+        <td class="left">PLBNFTS00018</td>
+        <td>PLN</td>
+        <td>928,00</td>
+        <td>928,00</td>
+        <td>897,30</td>
+        <td>900,00</td>
+                <td>-3,02</td>
+        <td>652</td>
+        <td>63</td>
+        <td>587,53</td>
+    </tr>
+        <tr>
+        <td class="left">BERLING</td>
+        <td class="left">PLBRLNG00015</td>
+        <td>PLN</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>4,21</td>
+                <td>0,00</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0,00</td>
+    </tr>
+        <tr>
+        <td class="left">BEST</td>
+        <td class="left">PLBEST000010</td>
+        <td>PLN</td>
+        <td>25,45</td>
+        <td>25,78</td>
+        <td>25,45</td>
+        <td>25,78</td>
+                <td>2,71</td>
+        <td>969</td>
+        <td>10</td>
+        <td>24,77</td>
+    </tr>
+        <tr>
+        <td class="left">BETACOM</td>
+        <td class="left">PLBTCOM00016</td>
+        <td>PLN</td>
+        <td>11,34</td>
+        <td>11,34</td>
+        <td>11,32</td>
+        <td>11,32</td>
+                <td>-1,39</td>
+        <td>2</td>
+        <td>2</td>
+        <td>0,02</td>
+    </tr>
+        <tr>
+        <td class="left">BGZBNPP</td>
+        <td class="left">PLBGZ0000010</td>
+        <td>PLN</td>
+        <td>59,99</td>
+        <td>63,00</td>
+        <td>59,30</td>
+        <td>63,00</td>
+                <td>5,18</td>
+        <td>2&nbsp;995</td>
+        <td>14</td>
+        <td>188,39</td>
+    </tr>
+        <tr>
+        <td class="left">BIK</td>
+        <td class="left">PLBIKPT00014</td>
+        <td>PLN</td>
+        <td>16,15</td>
+        <td>16,15</td>
+        <td>16,15</td>
+        <td>16,15</td>
+                <td>0,94</td>
+        <td>100</td>
+        <td>1</td>
+        <td>1,62</td>
+    </tr>
+        <tr>
+        <td class="left">BIOMEDLUB</td>
+        <td class="left">PLBMDLB00018</td>
+        <td>PLN</td>
+        <td>1,00</td>
+        <td>1,12</td>
+        <td>0,98</td>
+        <td>1,07</td>
+                <td>5,94</td>
+        <td>1&nbsp;135&nbsp;437</td>
+        <td>406</td>
+        <td>1&nbsp;210,20</td>
+    </tr>
+        <tr>
+        <td class="left">BIOTON</td>
+        <td class="left">PLBIOTN00029</td>
+        <td>PLN</td>
+        <td>7,34</td>
+        <td>7,48</td>
+        <td>7,22</td>
+        <td>7,41</td>
+                <td>1,93</td>
+        <td>60&nbsp;001</td>
+        <td>179</td>
+        <td>438,27</td>
+    </tr>
+        <tr>
+        <td class="left">BMPAG</td>
+        <td class="left">DE0003304200</td>
+        <td>PLN</td>
+        <td>2,14</td>
+        <td>2,14</td>
+        <td>2,00</td>
+        <td>2,14</td>
+                <td>0,00</td>
+        <td>2&nbsp;223</td>
+        <td>9</td>
+        <td>4,54</td>
+    </tr>
+        <tr>
+        <td class="left">BOGDANKA</td>
+        <td class="left">PLLWBGD00016</td>
+        <td>PLN</td>
+        <td>77,50</td>
+        <td>79,85</td>
+        <td>77,50</td>
+        <td>79,85</td>
+                <td>0,01</td>
+        <td>23&nbsp;959</td>
+        <td>205</td>
+        <td>1&nbsp;901,40</td>
+    </tr>
+        <tr>
+        <td class="left">BORYSZEW</td>
+        <td class="left">PLBRSZW00011</td>
+        <td>PLN</td>
+        <td>12,00</td>
+        <td>12,03</td>
+        <td>11,72</td>
+        <td>11,98</td>
+                <td>-0,17</td>
+        <td>69&nbsp;042</td>
+        <td>209</td>
+        <td>824,84</td>
+    </tr>
+        <tr>
+        <td class="left">BOS</td>
+        <td class="left">PLBOS0000019</td>
+        <td>PLN</td>
+        <td>13,51</td>
+        <td>13,56</td>
+        <td>13,20</td>
+        <td>13,46</td>
+                <td>-0,22</td>
+        <td>24&nbsp;216</td>
+        <td>80</td>
+        <td>324,33</td>
+    </tr>
+        <tr>
+        <td class="left">BOWIM</td>
+        <td class="left">PLBOWM000019</td>
+        <td>PLN</td>
+        <td>4,60</td>
+        <td>4,67</td>
+        <td>4,45</td>
+        <td>4,45</td>
+                <td>-6,32</td>
+        <td>7&nbsp;882</td>
+        <td>15</td>
+        <td>35,80</td>
+    </tr>
+        <tr>
+        <td class="left">BRASTER</td>
+        <td class="left">PLBRSTR00014</td>
+        <td>PLN</td>
+        <td>20,60</td>
+        <td>21,50</td>
+        <td>20,30</td>
+        <td>20,55</td>
+                <td>1,88</td>
+        <td>282&nbsp;037</td>
+        <td>1&nbsp;301</td>
+        <td>5&nbsp;890,35</td>
+    </tr>
+        <tr>
+        <td class="left">BRIJU</td>
+        <td class="left">PLBRIJU00010</td>
+        <td>PLN</td>
+        <td>30,75</td>
+        <td>30,75</td>
+        <td>28,90</td>
+        <td>29,85</td>
+                <td>-2,13</td>
+        <td>17&nbsp;410</td>
+        <td>170</td>
+        <td>520,65</td>
+    </tr>
+        <tr>
+        <td class="left">BSCDRUK</td>
+        <td class="left">PLBSCDO00017</td>
+        <td>PLN</td>
+        <td>38,00</td>
+        <td>38,50</td>
+        <td>37,00</td>
+        <td>37,94</td>
+                <td>-0,16</td>
+        <td>4&nbsp;149</td>
+        <td>16</td>
+        <td>157,23</td>
+    </tr>
+        <tr>
+        <td class="left">BUDIMEX</td>
+        <td class="left">PLBUDMX00013</td>
+        <td>PLN</td>
+        <td>242,55</td>
+        <td>244,60</td>
+        <td>238,00</td>
+        <td>244,25</td>
+                <td>0,70</td>
+        <td>7&nbsp;078</td>
+        <td>325</td>
+        <td>1&nbsp;709,61</td>
+    </tr>
+        <tr>
+        <td class="left">BUDOPOL</td>
+        <td class="left">PLBDPWR00014</td>
+        <td>PLN</td>
+        <td>0,04</td>
+        <td>0,04</td>
+        <td>0,04</td>
+        <td>0,04</td>
+                <td>0,00</td>
+        <td>940&nbsp;314</td>
+        <td>31</td>
+        <td>37,61</td>
+    </tr>
+        <tr>
+        <td class="left">BUMECH</td>
+        <td class="left">PLBMECH00012</td>
+        <td>PLN</td>
+        <td>0,95</td>
+        <td>0,95</td>
+        <td>0,91</td>
+        <td>0,94</td>
+                <td>0,00</td>
+        <td>1&nbsp;149&nbsp;635</td>
+        <td>247</td>
+        <td>1&nbsp;073,87</td>
+    </tr>
+        <tr>
+        <td class="left">BUWOG</td>
+        <td class="left">AT00BUWOG001</td>
+        <td>PLN</td>
+        <td>99,56</td>
+        <td>99,56</td>
+        <td>99,56</td>
+        <td>99,56</td>
+                <td>-0,54</td>
+        <td>3</td>
+        <td>1</td>
+        <td>0,30</td>
+    </tr>
+        <tr>
+        <td class="left">BYTOM</td>
+        <td class="left">PLBYTOM00010</td>
+        <td>PLN</td>
+        <td>2,48</td>
+        <td>2,48</td>
+        <td>2,43</td>
+        <td>2,45</td>
+                <td>-1,21</td>
+        <td>68&nbsp;652</td>
+        <td>59</td>
+        <td>168,64</td>
+    </tr>
+        <tr>
+        <td class="left">BZWBK</td>
+        <td class="left">PLBZ00000044</td>
+        <td>PLN</td>
+        <td>362,75</td>
+        <td>362,75</td>
+        <td>351,05</td>
+        <td>351,05</td>
+                <td>-2,76</td>
+        <td>141&nbsp;862</td>
+        <td>955</td>
+        <td>50&nbsp;135,70</td>
+    </tr>
+        <tr>
+        <td class="left">CALATRAVA</td>
+        <td class="left">PLBRSTM00015</td>
+        <td>PLN</td>
+        <td>0,45</td>
+        <td>0,48</td>
+        <td>0,41</td>
+        <td>0,48</td>
+                <td>6,67</td>
+        <td>77&nbsp;096</td>
+        <td>32</td>
+        <td>32,61</td>
+    </tr>
+        <tr>
+        <td class="left">CAPITAL</td>
+        <td class="left">PLCPTLP00015</td>
+        <td>PLN</td>
+        <td>2,52</td>
+        <td>2,58</td>
+        <td>2,50</td>
+        <td>2,58</td>
+                <td>2,38</td>
+        <td>2&nbsp;994</td>
+        <td>6</td>
+        <td>7,64</td>
+    </tr>
+        <tr>
+        <td class="left">CASHFLOW</td>
+        <td class="left">PLCASHF00018</td>
+        <td>PLN</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,13</td>
+                <td>0,00</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0,00</td>
+    </tr>
+        <tr>
+        <td class="left">CCC</td>
+        <td class="left">PLCCC0000016</td>
+        <td>PLN</td>
+        <td>224,00</td>
+        <td>225,50</td>
+        <td>218,15</td>
+        <td>225,50</td>
+                <td>0,00</td>
+        <td>138&nbsp;246</td>
+        <td>1&nbsp;429</td>
+        <td>30&nbsp;767,92</td>
+    </tr>
+        <tr>
+        <td class="left">CCENERGY</td>
+        <td class="left">PLKAREN00014</td>
+        <td>PLN</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,06</td>
+                <td>0,00</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0,00</td>
+    </tr>
+        <tr>
+        <td class="left">CDPROJEKT</td>
+        <td class="left">PLOPTTC00011</td>
+        <td>PLN</td>
+        <td>72,50</td>
+        <td>73,00</td>
+        <td>66,10</td>
+        <td>70,45</td>
+                <td>-2,42</td>
+        <td>1&nbsp;000&nbsp;402</td>
+        <td>4&nbsp;266</td>
+        <td>69&nbsp;693,62</td>
+    </tr>
+        <tr>
+        <td class="left">CDRL</td>
+        <td class="left">PLCDRL000043</td>
+        <td>PLN</td>
+        <td>27,20</td>
+        <td>27,20</td>
+        <td>24,51</td>
+        <td>25,50</td>
+                <td>-6,25</td>
+        <td>4&nbsp;951</td>
+        <td>35</td>
+        <td>125,72</td>
+    </tr>
+        <tr>
+        <td class="left">CELTIC</td>
+        <td class="left">PLCELPD00013</td>
+        <td>PLN</td>
+        <td>5,99</td>
+        <td>5,99</td>
+        <td>5,60</td>
+        <td>5,80</td>
+                <td>-3,01</td>
+        <td>2&nbsp;662</td>
+        <td>5</td>
+        <td>15,12</td>
+    </tr>
+        <tr>
+        <td class="left">CEZ</td>
+        <td class="left">CZ0005112300</td>
+        <td>PLN</td>
+        <td>72,50</td>
+        <td>72,50</td>
+        <td>71,31</td>
+        <td>72,13</td>
+                <td>-0,65</td>
+        <td>1&nbsp;289</td>
+        <td>14</td>
+        <td>92,28</td>
+    </tr>
+        <tr>
+        <td class="left">CFI</td>
+        <td class="left">PLINTKS00013</td>
+        <td>PLN</td>
+        <td>0,80</td>
+        <td>0,80</td>
+        <td>0,74</td>
+        <td>0,76</td>
+                <td>-3,80</td>
+        <td>1&nbsp;375&nbsp;081</td>
+        <td>389</td>
+        <td>1&nbsp;045,06</td>
+    </tr>
+        <tr>
+        <td class="left">CHEMOS</td>
+        <td class="left">PLCHMDW00010</td>
+        <td>PLN</td>
+        <td>1,38</td>
+        <td>1,43</td>
+        <td>1,37</td>
+        <td>1,38</td>
+                <td>-0,72</td>
+        <td>30&nbsp;332</td>
+        <td>27</td>
+        <td>42,11</td>
+    </tr>
+        <tr>
+        <td class="left">CIECH</td>
+        <td class="left">PLCIECH00018</td>
+        <td>PLN</td>
+        <td>75,00</td>
+        <td>75,30</td>
+        <td>74,62</td>
+        <td>74,90</td>
+                <td>0,27</td>
+        <td>22&nbsp;137</td>
+        <td>329</td>
+        <td>1&nbsp;658,88</td>
+    </tr>
+        <tr>
+        <td class="left">CIGAMES</td>
+        <td class="left">PLCTINT00018</td>
+        <td>PLN</td>
+        <td>2,53</td>
+        <td>2,63</td>
+        <td>2,53</td>
+        <td>2,57</td>
+                <td>0,78</td>
+        <td>396&nbsp;491</td>
+        <td>355</td>
+        <td>1&nbsp;024,79</td>
+    </tr>
+        <tr>
+        <td class="left">CITYSERV</td>
+        <td class="left">EE3100126368</td>
+        <td>PLN</td>
+        <td>9,30</td>
+        <td>9,70</td>
+        <td>9,30</td>
+        <td>9,70</td>
+                <td>-0,51</td>
+        <td>500</td>
+        <td>2</td>
+        <td>4,73</td>
+    </tr>
+        <tr>
+        <td class="left">CLNPHARMA</td>
+        <td class="left">PLCLNPH00015</td>
+        <td>PLN</td>
+        <td>31,80</td>
+        <td>32,20</td>
+        <td>31,44</td>
+        <td>31,62</td>
+                <td>-0,25</td>
+        <td>70&nbsp;201</td>
+        <td>196</td>
+        <td>2&nbsp;214,14</td>
+    </tr>
+        <tr>
+        <td class="left">CNT</td>
+        <td class="left">PLERGPL00014</td>
+        <td>PLN</td>
+        <td>8,10</td>
+        <td>8,10</td>
+        <td>7,81</td>
+        <td>7,81</td>
+                <td>-3,58</td>
+        <td>632</td>
+        <td>7</td>
+        <td>4,98</td>
+    </tr>
+        <tr>
+        <td class="left">COALENERG</td>
+        <td class="left">LU0646112838</td>
+        <td>PLN</td>
+        <td>1,40</td>
+        <td>1,40</td>
+        <td>1,30</td>
+        <td>1,30</td>
+                <td>-5,80</td>
+        <td>42&nbsp;025</td>
+        <td>36</td>
+        <td>55,40</td>
+    </tr>
+        <tr>
+        <td class="left">COGNOR</td>
+        <td class="left">PLCNTSL00014</td>
+        <td>PLN</td>
+        <td>1,91</td>
+        <td>1,92</td>
+        <td>1,86</td>
+        <td>1,91</td>
+                <td>-1,04</td>
+        <td>32&nbsp;889</td>
+        <td>43</td>
+        <td>61,76</td>
+    </tr>
+        <tr>
+        <td class="left">COLIAN</td>
+        <td class="left">PLJTRZN00011</td>
+        <td>PLN</td>
+        <td>3,35</td>
+        <td>3,39</td>
+        <td>3,34</td>
+        <td>3,35</td>
+                <td>0,30</td>
+        <td>23&nbsp;422</td>
+        <td>34</td>
+        <td>78,45</td>
+    </tr>
+        <tr>
+        <td class="left">COMARCH</td>
+        <td class="left">PLCOMAR00012</td>
+        <td>PLN</td>
+        <td>203,00</td>
+        <td>204,90</td>
+        <td>195,65</td>
+        <td>204,80</td>
+                <td>-0,32</td>
+        <td>1&nbsp;273</td>
+        <td>73</td>
+        <td>256,63</td>
+    </tr>
+        <tr>
+        <td class="left">COMP</td>
+        <td class="left">PLCMP0000017</td>
+        <td>PLN</td>
+        <td>75,89</td>
+        <td>77,00</td>
+        <td>75,00</td>
+        <td>77,00</td>
+                <td>2,67</td>
+        <td>664</td>
+        <td>11</td>
+        <td>50,90</td>
+    </tr>
+        <tr>
+        <td class="left">COMPERIA</td>
+        <td class="left">PLCOMPR00010</td>
+        <td>PLN</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>3,63</td>
+                <td>0,00</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0,00</td>
+    </tr>
+        <tr>
+        <td class="left">CORMAY</td>
+        <td class="left">PLCMRAY00029</td>
+        <td>PLN</td>
+        <td>2,31</td>
+        <td>2,32</td>
+        <td>2,23</td>
+        <td>2,25</td>
+                <td>-1,75</td>
+        <td>179&nbsp;702</td>
+        <td>146</td>
+        <td>407,60</td>
+    </tr>
+        <tr>
+        <td class="left">CPGROUP</td>
+        <td class="left">PLCPPRK00037</td>
+        <td>PLN</td>
+        <td>6,55</td>
+        <td>6,55</td>
+        <td>6,52</td>
+        <td>6,52</td>
+                <td>-0,76</td>
+        <td>301</td>
+        <td>3</td>
+        <td>1,96</td>
+    </tr>
+        <tr>
+        <td class="left">CUBEITG</td>
+        <td class="left">PLMCINT00013</td>
+        <td>PLN</td>
+        <td>5,62</td>
+        <td>5,75</td>
+        <td>5,53</td>
+        <td>5,75</td>
+                <td>3,05</td>
+        <td>14&nbsp;684</td>
+        <td>24</td>
+        <td>82,66</td>
+    </tr>
+        <tr>
+        <td class="left">CYFRPLSAT</td>
+        <td class="left">PLCFRPT00013</td>
+        <td>PLN</td>
+        <td>23,50</td>
+        <td>23,50</td>
+        <td>23,16</td>
+        <td>23,16</td>
+                <td>-0,86</td>
+        <td>348&nbsp;587</td>
+        <td>597</td>
+        <td>8&nbsp;101,48</td>
+    </tr>
+        <tr>
+        <td class="left">CZTOREBKA</td>
+        <td class="left">PLCRWTR00022</td>
+        <td>PLN</td>
+        <td>0,86</td>
+        <td>0,92</td>
+        <td>0,86</td>
+        <td>0,92</td>
+                <td>6,98</td>
+        <td>75&nbsp;426</td>
+        <td>35</td>
+        <td>68,34</td>
+    </tr>
+        <tr>
+        <td class="left">DEBICA</td>
+        <td class="left">PLDEBCA00016</td>
+        <td>PLN</td>
+        <td>98,20</td>
+        <td>99,00</td>
+        <td>96,35</td>
+        <td>99,00</td>
+                <td>0,92</td>
+        <td>10&nbsp;524</td>
+        <td>78</td>
+        <td>1&nbsp;032,47</td>
+    </tr>
+        <tr>
+        <td class="left">DECORA</td>
+        <td class="left">PLDECOR00013</td>
+        <td>PLN</td>
+        <td>9,95</td>
+        <td>9,95</td>
+        <td>9,80</td>
+        <td>9,80</td>
+                <td>-1,01</td>
+        <td>314</td>
+        <td>6</td>
+        <td>3,10</td>
+    </tr>
+        <tr>
+        <td class="left">DEKPOL</td>
+        <td class="left">PLDEKPL00032</td>
+        <td>PLN</td>
+        <td>13,10</td>
+        <td>13,10</td>
+        <td>12,82</td>
+        <td>13,10</td>
+                <td>0,77</td>
+        <td>18</td>
+        <td>3</td>
+        <td>0,23</td>
+    </tr>
+        <tr>
+        <td class="left">DELKO</td>
+        <td class="left">PLDELKO00019</td>
+        <td>PLN</td>
+        <td>10,95</td>
+        <td>10,97</td>
+        <td>10,43</td>
+        <td>10,48</td>
+                <td>-3,76</td>
+        <td>22&nbsp;377</td>
+        <td>33</td>
+        <td>236,10</td>
+    </tr>
+        <tr>
+        <td class="left">DGA</td>
+        <td class="left">PLDGA0000019</td>
+        <td>PLN</td>
+        <td>3,72</td>
+        <td>3,89</td>
+        <td>3,72</td>
+        <td>3,73</td>
+                <td>0,27</td>
+        <td>15&nbsp;012</td>
+        <td>36</td>
+        <td>56,87</td>
+    </tr>
+        <tr>
+        <td class="left">DOMDEV</td>
+        <td class="left">PLDMDVL00012</td>
+        <td>PLN</td>
+        <td>67,00</td>
+        <td>70,99</td>
+        <td>65,50</td>
+        <td>67,01</td>
+                <td>3,73</td>
+        <td>7&nbsp;472</td>
+        <td>180</td>
+        <td>506,28</td>
+    </tr>
+        <tr>
+        <td class="left">DREWEX</td>
+        <td class="left">PLDREWX00012</td>
+        <td>PLN</td>
+        <td>1,80</td>
+        <td>1,96</td>
+        <td>1,75</td>
+        <td>1,85</td>
+                <td>3,35</td>
+        <td>11&nbsp;565</td>
+        <td>33</td>
+        <td>21,37</td>
+    </tr>
+        <tr>
+        <td class="left">DROP</td>
+        <td class="left">PLDROP000011</td>
+        <td>PLN</td>
+        <td>2,40</td>
+        <td>2,64</td>
+        <td>2,40</td>
+        <td>2,53</td>
+                <td>12,44</td>
+        <td>28&nbsp;272</td>
+        <td>56</td>
+        <td>72,65</td>
+    </tr>
+        <tr>
+        <td class="left">DROZAPOL</td>
+        <td class="left">PLDRZPL00032</td>
+        <td>PLN</td>
+        <td>2,13</td>
+        <td>2,20</td>
+        <td>2,08</td>
+        <td>2,19</td>
+                <td>1,39</td>
+        <td>15&nbsp;076</td>
+        <td>26</td>
+        <td>31,80</td>
+    </tr>
+        <tr>
+        <td class="left">ECHO</td>
+        <td class="left">PLECHPS00019</td>
+        <td>PLN</td>
+        <td>5,82</td>
+        <td>5,82</td>
+        <td>5,64</td>
+        <td>5,65</td>
+                <td>-2,92</td>
+        <td>126&nbsp;506</td>
+        <td>359</td>
+        <td>721,20</td>
+    </tr>
+        <tr>
+        <td class="left">EDINVEST</td>
+        <td class="left">PLEDINV00014</td>
+        <td>PLN</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>2,07</td>
+                <td>0,00</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0,00</td>
+    </tr>
+        <tr>
+        <td class="left">EFEKT</td>
+        <td class="left">PLEFEKT00018</td>
+        <td>PLN</td>
+        <td>27,50</td>
+        <td>27,50</td>
+        <td>26,62</td>
+        <td>27,50</td>
+                <td>0,00</td>
+        <td>1&nbsp;042</td>
+        <td>14</td>
+        <td>27,84</td>
+    </tr>
+        <tr>
+        <td class="left">EKOEXPORT</td>
+        <td class="left">PLEKEP000019</td>
+        <td>PLN</td>
+        <td>15,50</td>
+        <td>15,50</td>
+        <td>15,22</td>
+        <td>15,50</td>
+                <td>0,00</td>
+        <td>6&nbsp;304</td>
+        <td>55</td>
+        <td>97,05</td>
+    </tr>
+        <tr>
+        <td class="left">ELBUDOWA</td>
+        <td class="left">PLELTBD00017</td>
+        <td>PLN</td>
+        <td>115,30</td>
+        <td>116,00</td>
+        <td>115,00</td>
+        <td>115,50</td>
+                <td>-0,43</td>
+        <td>528</td>
+        <td>20</td>
+        <td>60,91</td>
+    </tr>
+        <tr>
+        <td class="left">ELEKTROTI</td>
+        <td class="left">PLELEKT00016</td>
+        <td>PLN</td>
+        <td>15,61</td>
+        <td>15,61</td>
+        <td>14,87</td>
+        <td>15,50</td>
+                <td>-1,02</td>
+        <td>32&nbsp;412</td>
+        <td>47</td>
+        <td>496,87</td>
+    </tr>
+        <tr>
+        <td class="left">ELEMENTAL</td>
+        <td class="left">PLELMTL00017</td>
+        <td>PLN</td>
+        <td>3,72</td>
+        <td>3,80</td>
+        <td>3,70</td>
+        <td>3,77</td>
+                <td>1,07</td>
+        <td>95&nbsp;226</td>
+        <td>90</td>
+        <td>357,48</td>
+    </tr>
+        <tr>
+        <td class="left">ELKOP</td>
+        <td class="left">PLELKOP00013</td>
+        <td>PLN</td>
+        <td>0,66</td>
+        <td>0,67</td>
+        <td>0,54</td>
+        <td>0,54</td>
+                <td>-18,18</td>
+        <td>4&nbsp;942&nbsp;865</td>
+        <td>885</td>
+        <td>2&nbsp;849,07</td>
+    </tr>
+        <tr>
+        <td class="left">ELZAB</td>
+        <td class="left">PLELZAB00010</td>
+        <td>PLN</td>
+        <td>17,52</td>
+        <td>17,80</td>
+        <td>17,02</td>
+        <td>17,80</td>
+                <td>1,42</td>
+        <td>1&nbsp;723</td>
+        <td>15</td>
+        <td>30,31</td>
+    </tr>
+        <tr>
+        <td class="left">EMCINSMED</td>
+        <td class="left">PLEMCIM00017</td>
+        <td>PLN</td>
+        <td>11,60</td>
+        <td>11,60</td>
+        <td>11,60</td>
+        <td>11,60</td>
+                <td>0,00</td>
+        <td>1</td>
+        <td>1</td>
+        <td>0,01</td>
+    </tr>
+        <tr>
+        <td class="left">EMPERIA</td>
+        <td class="left">PLELDRD00017</td>
+        <td>PLN</td>
+        <td>71,10</td>
+        <td>71,50</td>
+        <td>70,51</td>
+        <td>71,01</td>
+                <td>1,44</td>
+        <td>18&nbsp;610</td>
+        <td>156</td>
+        <td>1&nbsp;320,03</td>
+    </tr>
+        <tr>
+        <td class="left">ENAP</td>
+        <td class="left">PLENAP000010</td>
+        <td>PLN</td>
+        <td>1,04</td>
+        <td>1,04</td>
+        <td>1,02</td>
+        <td>1,03</td>
+                <td>-0,96</td>
+        <td>310</td>
+        <td>3</td>
+        <td>0,32</td>
+    </tr>
+        <tr>
+        <td class="left">ENEA</td>
+        <td class="left">PLENEA000013</td>
+        <td>PLN</td>
+        <td>10,89</td>
+        <td>10,89</td>
+        <td>10,61</td>
+        <td>10,67</td>
+                <td>-0,56</td>
+        <td>814&nbsp;378</td>
+        <td>1&nbsp;209</td>
+        <td>8&nbsp;746,27</td>
+    </tr>
+        <tr>
+        <td class="left">ENELMED</td>
+        <td class="left">PLENLMD00017</td>
+        <td>PLN</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>10,10</td>
+                <td>0,00</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0,00</td>
+    </tr>
+        <tr>
+        <td class="left">ENERGA</td>
+        <td class="left">PLENERG00022</td>
+        <td>PLN</td>
+        <td>10,49</td>
+        <td>10,95</td>
+        <td>10,40</td>
+        <td>10,92</td>
+                <td>4,20</td>
+        <td>2&nbsp;835&nbsp;287</td>
+        <td>5&nbsp;249</td>
+        <td>30&nbsp;510,67</td>
+    </tr>
+        <tr>
+        <td class="left">ENERGOINS</td>
+        <td class="left">PLERGIN00015</td>
+        <td>PLN</td>
+        <td>4,94</td>
+        <td>4,94</td>
+        <td>4,79</td>
+        <td>4,82</td>
+                <td>-1,43</td>
+        <td>2&nbsp;187</td>
+        <td>9</td>
+        <td>10,48</td>
+    </tr>
+        <tr>
+        <td class="left">ENTER</td>
+        <td class="left">PLENTER00017</td>
+        <td>PLN</td>
+        <td>29,50</td>
+        <td>29,50</td>
+        <td>27,80</td>
+        <td>28,93</td>
+                <td>1,15</td>
+        <td>849</td>
+        <td>11</td>
+        <td>24,41</td>
+    </tr>
+        <tr>
+        <td class="left">ERBUD</td>
+        <td class="left">PLERBUD00012</td>
+        <td>PLN</td>
+        <td>31,95</td>
+        <td>31,95</td>
+        <td>30,03</td>
+        <td>31,51</td>
+                <td>1,03</td>
+        <td>782</td>
+        <td>12</td>
+        <td>24,24</td>
+    </tr>
+        <tr>
+        <td class="left">ERG</td>
+        <td class="left">PLERGZB00014</td>
+        <td>PLN</td>
+        <td>63,50</td>
+        <td>63,50</td>
+        <td>60,53</td>
+        <td>61,50</td>
+                <td>-0,16</td>
+        <td>269</td>
+        <td>10</td>
+        <td>16,46</td>
+    </tr>
+        <tr>
+        <td class="left">ERGIS</td>
+        <td class="left">PLEUFLM00017</td>
+        <td>PLN</td>
+        <td>6,32</td>
+        <td>6,33</td>
+        <td>6,28</td>
+        <td>6,29</td>
+                <td>-0,47</td>
+        <td>5&nbsp;860</td>
+        <td>17</td>
+        <td>36,99</td>
+    </tr>
+        <tr>
+        <td class="left">ESOTIQ</td>
+        <td class="left">PLESTHN00018</td>
+        <td>PLN</td>
+        <td>10,20</td>
+        <td>10,32</td>
+        <td>10,00</td>
+        <td>10,29</td>
+                <td>1,68</td>
+        <td>3&nbsp;326</td>
+        <td>19</td>
+        <td>33,69</td>
+    </tr>
+        <tr>
+        <td class="left">ESSYSTEM</td>
+        <td class="left">PLESSYS00030</td>
+        <td>PLN</td>
+        <td>2,74</td>
+        <td>2,74</td>
+        <td>2,60</td>
+        <td>2,74</td>
+                <td>0,00</td>
+        <td>707</td>
+        <td>4</td>
+        <td>1,84</td>
+    </tr>
+        <tr>
+        <td class="left">ESTAR</td>
+        <td class="left">HU0000089198</td>
+        <td>PLN</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>1,70</td>
+                <td>0,00</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0,00</td>
+    </tr>
+        <tr>
+        <td class="left">EUCO</td>
+        <td class="left">PLERPCO00017</td>
+        <td>PLN</td>
+        <td>37,20</td>
+        <td>37,50</td>
+        <td>36,61</td>
+        <td>37,15</td>
+                <td>-0,13</td>
+        <td>423</td>
+        <td>13</td>
+        <td>15,70</td>
+    </tr>
+        <tr>
+        <td class="left">EUROCASH</td>
+        <td class="left">PLEURCH00011</td>
+        <td>PLN</td>
+        <td>33,74</td>
+        <td>33,77</td>
+        <td>32,89</td>
+        <td>33,20</td>
+                <td>-1,54</td>
+        <td>1&nbsp;770&nbsp;690</td>
+        <td>3&nbsp;208</td>
+        <td>58&nbsp;809,28</td>
+    </tr>
+        <tr>
+        <td class="left">EUROHOLD</td>
+        <td class="left">BG1100114062</td>
+        <td>PLN</td>
+        <td>1,60</td>
+        <td>1,60</td>
+        <td>1,60</td>
+        <td>1,60</td>
+                <td>0,00</td>
+        <td>80</td>
+        <td>2</td>
+        <td>0,13</td>
+    </tr>
+        <tr>
+        <td class="left">EUROTEL</td>
+        <td class="left">PLERTEL00011</td>
+        <td>PLN</td>
+        <td>21,87</td>
+        <td>22,85</td>
+        <td>21,87</td>
+        <td>22,85</td>
+                <td>1,20</td>
+        <td>1&nbsp;073</td>
+        <td>11</td>
+        <td>24,18</td>
+    </tr>
+        <tr>
+        <td class="left">EVEREST</td>
+        <td class="left">PLWDMCP00013</td>
+        <td>PLN</td>
+        <td>0,19</td>
+        <td>0,19</td>
+        <td>0,19</td>
+        <td>0,19</td>
+                <td>0,00</td>
+        <td>308</td>
+        <td>2</td>
+        <td>0,06</td>
+    </tr>
+        <tr>
+        <td class="left">EXILLON</td>
+        <td class="left">IM00B58FMW76</td>
+        <td>PLN</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>7,70</td>
+                <td>0,00</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0,00</td>
+    </tr>
+        <tr>
+        <td class="left">FAM</td>
+        <td class="left">PLFAM0000012</td>
+        <td>PLN</td>
+        <td>4,33</td>
+        <td>4,37</td>
+        <td>4,30</td>
+        <td>4,33</td>
+                <td>0,23</td>
+        <td>4&nbsp;267</td>
+        <td>15</td>
+        <td>18,41</td>
+    </tr>
+        <tr>
+        <td class="left">FAMUR</td>
+        <td class="left">PLFAMUR00012</td>
+        <td>PLN</td>
+        <td>5,10</td>
+        <td>5,20</td>
+        <td>5,10</td>
+        <td>5,15</td>
+                <td>-0,19</td>
+        <td>110&nbsp;839</td>
+        <td>64</td>
+        <td>568,36</td>
+    </tr>
+        <tr>
+        <td class="left">FARMACOL</td>
+        <td class="left">PLFRMCL00066</td>
+        <td>PLN</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>51,70</td>
+                <td>0,00</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0,00</td>
+    </tr>
+        <tr>
+        <td class="left">FASING</td>
+        <td class="left">PLFSING00010</td>
+        <td>PLN</td>
+        <td>14,65</td>
+        <td>15,32</td>
+        <td>14,65</td>
+        <td>15,00</td>
+                <td>-1,96</td>
+        <td>601</td>
+        <td>8</td>
+        <td>8,98</td>
+    </tr>
+        <tr>
+        <td class="left">FASTFIN</td>
+        <td class="left">PLFSTFC00012</td>
+        <td>PLN</td>
+        <td>1,75</td>
+        <td>1,78</td>
+        <td>1,75</td>
+        <td>1,78</td>
+                <td>0,00</td>
+        <td>8&nbsp;421</td>
+        <td>24</td>
+        <td>14,88</td>
+    </tr>
+        <tr>
+        <td class="left">FEERUM</td>
+        <td class="left">PLFEERM00018</td>
+        <td>PLN</td>
+        <td>17,25</td>
+        <td>17,25</td>
+        <td>17,25</td>
+        <td>17,25</td>
+                <td>0,41</td>
+        <td>10</td>
+        <td>10</td>
+        <td>0,17</td>
+    </tr>
+        <tr>
+        <td class="left">FENGHUA</td>
+        <td class="left">DE000A13SX89</td>
+        <td>PLN</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>17,52</td>
+                <td>0,00</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0,00</td>
+    </tr>
+        <tr>
+        <td class="left">FERRO</td>
+        <td class="left">PLFERRO00016</td>
+        <td>PLN</td>
+        <td>12,97</td>
+        <td>13,04</td>
+        <td>12,55</td>
+        <td>12,78</td>
+                <td>0,24</td>
+        <td>9&nbsp;566</td>
+        <td>30</td>
+        <td>121,82</td>
+    </tr>
+        <tr>
+        <td class="left">FERRUM</td>
+        <td class="left">PLFERUM00014</td>
+        <td>PLN</td>
+        <td>3,74</td>
+        <td>3,80</td>
+        <td>3,74</td>
+        <td>3,80</td>
+                <td>2,70</td>
+        <td>12&nbsp;200</td>
+        <td>16</td>
+        <td>46,33</td>
+    </tr>
+        <tr>
+        <td class="left">FMG</td>
+        <td class="left">PLTHP0000011</td>
+        <td>PLN</td>
+        <td>0,31</td>
+        <td>0,31</td>
+        <td>0,31</td>
+        <td>0,31</td>
+                <td>0,00</td>
+        <td>10</td>
+        <td>3</td>
+        <td>0,00</td>
+    </tr>
+        <tr>
+        <td class="left">FON</td>
+        <td class="left">PLCASPL00019</td>
+        <td>PLN</td>
+        <td>0,85</td>
+        <td>0,96</td>
+        <td>0,81</td>
+        <td>0,96</td>
+                <td>20,00</td>
+        <td>682&nbsp;096</td>
+        <td>302</td>
+        <td>634,26</td>
+    </tr>
+        <tr>
+        <td class="left">FORTE</td>
+        <td class="left">PLFORTE00012</td>
+        <td>PLN</td>
+        <td>82,50</td>
+        <td>84,00</td>
+        <td>82,50</td>
+        <td>84,00</td>
+                <td>0,86</td>
+        <td>3&nbsp;586</td>
+        <td>70</td>
+        <td>299,37</td>
+    </tr>
+        <tr>
+        <td class="left">FORTUNA</td>
+        <td class="left">NL0009604859</td>
+        <td>PLN</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>16,09</td>
+                <td>0,00</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0,00</td>
+    </tr>
+        <tr>
+        <td class="left">FOTA</td>
+        <td class="left">PLFOTA000014</td>
+        <td>PLN</td>
+        <td>1,50</td>
+        <td>1,63</td>
+        <td>1,41</td>
+        <td>1,43</td>
+                <td>-7,74</td>
+        <td>342&nbsp;543</td>
+        <td>230</td>
+        <td>514,40</td>
+    </tr>
+        <tr>
+        <td class="left">GEKOPLAST</td>
+        <td class="left">PLGKPLS00019</td>
+        <td>PLN</td>
+        <td>10,89</td>
+        <td>10,89</td>
+        <td>10,88</td>
+        <td>10,88</td>
+                <td>-0,09</td>
+        <td>2</td>
+        <td>2</td>
+        <td>0,02</td>
+    </tr>
+        <tr>
+        <td class="left">GETIN</td>
+        <td class="left">PLGSPR000014</td>
+        <td>PLN</td>
+        <td>1,53</td>
+        <td>1,54</td>
+        <td>1,48</td>
+        <td>1,49</td>
+                <td>-2,61</td>
+        <td>299&nbsp;794</td>
+        <td>201</td>
+        <td>449,38</td>
+    </tr>
+        <tr>
+        <td class="left">GETINOBLE</td>
+        <td class="left">PLGETBK00012</td>
+        <td>PLN</td>
+        <td>2,00</td>
+        <td>2,02</td>
+        <td>1,98</td>
+        <td>2,02</td>
+                <td>1,00</td>
+        <td>1&nbsp;130&nbsp;102</td>
+        <td>368</td>
+        <td>2&nbsp;268,44</td>
+    </tr>
+        <tr>
+        <td class="left">GINOROSSI</td>
+        <td class="left">PLGNRSI00015</td>
+        <td>PLN</td>
+        <td>2,10</td>
+        <td>2,11</td>
+        <td>2,09</td>
+        <td>2,11</td>
+                <td>0,48</td>
+        <td>12&nbsp;197</td>
+        <td>10</td>
+        <td>25,70</td>
+    </tr>
+        <tr>
+        <td class="left">GLCOSMED</td>
+        <td class="left">PLGLBLC00011</td>
+        <td>PLN</td>
+        <td>5,30</td>
+        <td>5,30</td>
+        <td>5,28</td>
+        <td>5,28</td>
+                <td>0,00</td>
+        <td>12</td>
+        <td>3</td>
+        <td>0,06</td>
+    </tr>
+        <tr>
+        <td class="left">GOBARTO</td>
+        <td class="left">PLDUDA000016</td>
+        <td>PLN</td>
+        <td>6,77</td>
+        <td>6,82</td>
+        <td>6,70</td>
+        <td>6,82</td>
+                <td>0,74</td>
+        <td>11&nbsp;725</td>
+        <td>33</td>
+        <td>78,94</td>
+    </tr>
+        <tr>
+        <td class="left">GORENJE</td>
+        <td class="left">SI0031104076</td>
+        <td>PLN</td>
+        <td>29,75</td>
+        <td>29,75</td>
+        <td>29,75</td>
+        <td>29,75</td>
+                <td>0,00</td>
+        <td>2</td>
+        <td>1</td>
+        <td>0,06</td>
+    </tr>
+        <tr>
+        <td class="left">GPW</td>
+        <td class="left">PLGPW0000017</td>
+        <td>PLN</td>
+        <td>47,72</td>
+        <td>47,80</td>
+        <td>47,26</td>
+        <td>47,56</td>
+                <td>-0,08</td>
+        <td>15&nbsp;873</td>
+        <td>225</td>
+        <td>754,15</td>
+    </tr>
+        <tr>
+        <td class="left">GRAAL</td>
+        <td class="left">PLGRAAL00022</td>
+        <td>PLN</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>31,70</td>
+                <td>0,00</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0,00</td>
+    </tr>
+        <tr>
+        <td class="left">GRAVITON</td>
+        <td class="left">PLWDM0000029</td>
+        <td>PLN</td>
+        <td>1,80</td>
+        <td>1,92</td>
+        <td>1,80</td>
+        <td>1,90</td>
+                <td>2,70</td>
+        <td>17&nbsp;930</td>
+        <td>37</td>
+        <td>32,65</td>
+    </tr>
+        <tr>
+        <td class="left">GROCLIN</td>
+        <td class="left">PLINTGR00013</td>
+        <td>PLN</td>
+        <td>15,14</td>
+        <td>15,14</td>
+        <td>14,91</td>
+        <td>15,07</td>
+                <td>-0,46</td>
+        <td>11&nbsp;852</td>
+        <td>63</td>
+        <td>177,77</td>
+    </tr>
+        <tr>
+        <td class="left">GRODNO</td>
+        <td class="left">PLGRODN00015</td>
+        <td>PLN</td>
+        <td>5,94</td>
+        <td>5,94</td>
+        <td>5,71</td>
+        <td>5,88</td>
+                <td>-1,01</td>
+        <td>4&nbsp;093</td>
+        <td>13</td>
+        <td>23,98</td>
+    </tr>
+        <tr>
+        <td class="left">GRUPAAZOTY</td>
+        <td class="left">PLZATRM00012</td>
+        <td>PLN</td>
+        <td>71,50</td>
+        <td>71,50</td>
+        <td>69,34</td>
+        <td>69,34</td>
+                <td>-3,29</td>
+        <td>82&nbsp;139</td>
+        <td>798</td>
+        <td>5&nbsp;746,50</td>
+    </tr>
+        <tr>
+        <td class="left">GTC</td>
+        <td class="left">PLGTC0000037</td>
+        <td>PLN</td>
+        <td>8,30</td>
+        <td>8,30</td>
+        <td>8,11</td>
+        <td>8,20</td>
+                <td>-0,61</td>
+        <td>123&nbsp;588</td>
+        <td>129</td>
+        <td>1&nbsp;013,35</td>
+    </tr>
+        <tr>
+        <td class="left">HANDLOWY</td>
+        <td class="left">PLBH00000012</td>
+        <td>PLN</td>
+        <td>80,36</td>
+        <td>80,90</td>
+        <td>78,85</td>
+        <td>78,85</td>
+                <td>-1,88</td>
+        <td>68&nbsp;858</td>
+        <td>835</td>
+        <td>5&nbsp;467,77</td>
+    </tr>
+        <tr>
+        <td class="left">HARPER</td>
+        <td class="left">PLHRPHG00023</td>
+        <td>PLN</td>
+        <td>1,01</td>
+        <td>1,19</td>
+        <td>1,00</td>
+        <td>1,17</td>
+                <td>18,18</td>
+        <td>76&nbsp;928</td>
+        <td>83</td>
+        <td>87,52</td>
+    </tr>
+        <tr>
+        <td class="left">HAWE</td>
+        <td class="left">PLVENTS00019</td>
+        <td>PLN</td>
+        <td>0,39</td>
+        <td>0,39</td>
+        <td>0,38</td>
+        <td>0,38</td>
+                <td>-5,00</td>
+        <td>61&nbsp;335</td>
+        <td>27</td>
+        <td>23,68</td>
+    </tr>
+        <tr>
+        <td class="left">HELIO</td>
+        <td class="left">PLHELIO00014</td>
+        <td>PLN</td>
+        <td>10,99</td>
+        <td>10,99</td>
+        <td>10,71</td>
+        <td>10,95</td>
+                <td>-0,36</td>
+        <td>2&nbsp;042</td>
+        <td>9</td>
+        <td>22,08</td>
+    </tr>
+        <tr>
+        <td class="left">HERKULES</td>
+        <td class="left">PLZRWZW00012</td>
+        <td>PLN</td>
+        <td>3,89</td>
+        <td>3,93</td>
+        <td>3,82</td>
+        <td>3,90</td>
+                <td>0,26</td>
+        <td>157&nbsp;054</td>
+        <td>35</td>
+        <td>614,97</td>
+    </tr>
+        <tr>
+        <td class="left">HUBSTYLE</td>
+        <td class="left">PLGRNKT00019</td>
+        <td>PLN</td>
+        <td>2,12</td>
+        <td>2,24</td>
+        <td>2,10</td>
+        <td>2,20</td>
+                <td>4,76</td>
+        <td>21&nbsp;581</td>
+        <td>13</td>
+        <td>46,01</td>
+    </tr>
+        <tr>
+        <td class="left">HUTMEN</td>
+        <td class="left">PLHUTMN00017</td>
+        <td>PLN</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>5,30</td>
+                <td>0,00</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0,00</td>
+    </tr>
+        <tr>
+        <td class="left">HYDROTOR</td>
+        <td class="left">PLHDRTR00013</td>
+        <td>PLN</td>
+        <td>41,00</td>
+        <td>41,00</td>
+        <td>38,70</td>
+        <td>41,00</td>
+                <td>0,00</td>
+        <td>462</td>
+        <td>10</td>
+        <td>18,06</td>
+    </tr>
+        <tr>
+        <td class="left">HYPERION</td>
+        <td class="left">PLHPRON00017</td>
+        <td>PLN</td>
+        <td>3,47</td>
+        <td>3,47</td>
+        <td>3,30</td>
+        <td>3,47</td>
+                <td>0,00</td>
+        <td>312</td>
+        <td>10</td>
+        <td>1,07</td>
+    </tr>
+        <tr>
+        <td class="left">I2DEV</td>
+        <td class="left">PLI2DVL00014</td>
+        <td>PLN</td>
+        <td>19,50</td>
+        <td>19,50</td>
+        <td>19,50</td>
+        <td>19,50</td>
+                <td>2,09</td>
+        <td>655</td>
+        <td>6</td>
+        <td>12,77</td>
+    </tr>
+        <tr>
+        <td class="left">IALBGR</td>
+        <td class="left">PLADVPL00029</td>
+        <td>PLN</td>
+        <td>12,00</td>
+        <td>12,10</td>
+        <td>11,61</td>
+        <td>11,84</td>
+                <td>-0,84</td>
+        <td>6&nbsp;676</td>
+        <td>38</td>
+        <td>79,81</td>
+    </tr>
+        <tr>
+        <td class="left">IBSM</td>
+        <td class="left">PLPLPGR00010</td>
+        <td>PLN</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>21,00</td>
+                <td>0,00</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0,00</td>
+    </tr>
+        <tr>
+        <td class="left">IDEABANK</td>
+        <td class="left">PLIDEAB00013</td>
+        <td>PLN</td>
+        <td>25,25</td>
+        <td>25,25</td>
+        <td>24,27</td>
+        <td>25,00</td>
+                <td>3,52</td>
+        <td>7&nbsp;384</td>
+        <td>38</td>
+        <td>184,74</td>
+    </tr>
+        <tr>
+        <td class="left">IDEON</td>
+        <td class="left">PLCNTZP00010</td>
+        <td>PLN</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,01</td>
+                <td>0,00</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0,00</td>
+    </tr>
+        <tr>
+        <td class="left">IDMSA</td>
+        <td class="left">PLIDMSA00044</td>
+        <td>PLN</td>
+        <td>0,75</td>
+        <td>0,75</td>
+        <td>0,75</td>
+        <td>0,75</td>
+                <td>0,00</td>
+        <td>234</td>
+        <td>5</td>
+        <td>0,18</td>
+    </tr>
+        <tr>
+        <td class="left">IFCAPITAL</td>
+        <td class="left">PLHRMAN00039</td>
+        <td>PLN</td>
+        <td>0,75</td>
+        <td>0,78</td>
+        <td>0,74</td>
+        <td>0,77</td>
+                <td>5,48</td>
+        <td>106&nbsp;084</td>
+        <td>72</td>
+        <td>80,69</td>
+    </tr>
+        <tr>
+        <td class="left">IFSA</td>
+        <td class="left">PLBDVR000018</td>
+        <td>PLN</td>
+        <td>0,44</td>
+        <td>0,45</td>
+        <td>0,40</td>
+        <td>0,44</td>
+                <td>0,00</td>
+        <td>984&nbsp;686</td>
+        <td>258</td>
+        <td>412,99</td>
+    </tr>
+        <tr>
+        <td class="left">IIAAV</td>
+        <td class="left">AT0000809058</td>
+        <td>PLN</td>
+        <td>7,44</td>
+        <td>7,44</td>
+        <td>7,41</td>
+        <td>7,41</td>
+                <td>-7,26</td>
+        <td>600</td>
+        <td>2</td>
+        <td>4,46</td>
+    </tr>
+        <tr>
+        <td class="left">IMCOMPANY</td>
+        <td class="left">LU0607203980</td>
+        <td>PLN</td>
+        <td>9,35</td>
+        <td>9,45</td>
+        <td>9,20</td>
+        <td>9,45</td>
+                <td>0,53</td>
+        <td>9&nbsp;231</td>
+        <td>19</td>
+        <td>86,35</td>
+    </tr>
+        <tr>
+        <td class="left">IMMOBILE</td>
+        <td class="left">PLMAKRM00019</td>
+        <td>PLN</td>
+        <td>3,30</td>
+        <td>3,47</td>
+        <td>3,30</td>
+        <td>3,47</td>
+                <td>2,66</td>
+        <td>845</td>
+        <td>17</td>
+        <td>2,83</td>
+    </tr>
+        <tr>
+        <td class="left">IMPEL</td>
+        <td class="left">PLIMPEL00011</td>
+        <td>PLN</td>
+        <td>25,00</td>
+        <td>25,00</td>
+        <td>24,95</td>
+        <td>25,00</td>
+                <td>0,81</td>
+        <td>1&nbsp;757</td>
+        <td>16</td>
+        <td>43,92</td>
+    </tr>
+        <tr>
+        <td class="left">IMPERA</td>
+        <td class="left">PLNFI0700018</td>
+        <td>PLN</td>
+        <td>1,33</td>
+        <td>1,33</td>
+        <td>1,33</td>
+        <td>1,33</td>
+                <td>0,00</td>
+        <td>2&nbsp;408</td>
+        <td>14</td>
+        <td>3,20</td>
+    </tr>
+        <tr>
+        <td class="left">IMPEXMET</td>
+        <td class="left">PLIMPXM00019</td>
+        <td>PLN</td>
+        <td>3,98</td>
+        <td>4,00</td>
+        <td>3,94</td>
+        <td>4,00</td>
+                <td>0,50</td>
+        <td>199&nbsp;285</td>
+        <td>117</td>
+        <td>793,27</td>
+    </tr>
+        <tr>
+        <td class="left">IMS</td>
+        <td class="left">PLINTMS00019</td>
+        <td>PLN</td>
+        <td>3,05</td>
+        <td>3,09</td>
+        <td>3,05</td>
+        <td>3,08</td>
+                <td>0,00</td>
+        <td>6&nbsp;968</td>
+        <td>6</td>
+        <td>21,44</td>
+    </tr>
+        <tr>
+        <td class="left">INC</td>
+        <td class="left">PLINCLT00015</td>
+        <td>PLN</td>
+        <td>1,88</td>
+        <td>1,88</td>
+        <td>1,88</td>
+        <td>1,88</td>
+                <td>0,53</td>
+        <td>50</td>
+        <td>10</td>
+        <td>0,09</td>
+    </tr>
+        <tr>
+        <td class="left">INDATA</td>
+        <td class="left">PLTROMD00010</td>
+        <td>PLN</td>
+        <td>0,82</td>
+        <td>0,84</td>
+        <td>0,80</td>
+        <td>0,81</td>
+                <td>-1,22</td>
+        <td>413&nbsp;912</td>
+        <td>140</td>
+        <td>339,50</td>
+    </tr>
+        <tr>
+        <td class="left">INDYGO</td>
+        <td class="left">PLLSTIA00018</td>
+        <td>PLN</td>
+        <td>0,84</td>
+        <td>0,84</td>
+        <td>0,77</td>
+        <td>0,79</td>
+                <td>-4,82</td>
+        <td>77&nbsp;556</td>
+        <td>49</td>
+        <td>62,81</td>
+    </tr>
+        <tr>
+        <td class="left">INDYKPOL</td>
+        <td class="left">PLINDKP00013</td>
+        <td>PLN</td>
+        <td>58,20</td>
+        <td>62,00</td>
+        <td>57,00</td>
+        <td>61,10</td>
+                <td>4,98</td>
+        <td>3&nbsp;776</td>
+        <td>28</td>
+        <td>221,68</td>
+    </tr>
+        <tr>
+        <td class="left">INGBSK</td>
+        <td class="left">PLBSK0000017</td>
+        <td>PLN</td>
+        <td>180,50</td>
+        <td>184,70</td>
+        <td>180,50</td>
+        <td>183,50</td>
+                <td>0,27</td>
+        <td>18&nbsp;941</td>
+        <td>372</td>
+        <td>3&nbsp;461,41</td>
+    </tr>
+        <tr>
+        <td class="left">INPOST</td>
+        <td class="left">PLINPST00012</td>
+        <td>PLN</td>
+        <td>10,03</td>
+        <td>10,45</td>
+        <td>10,01</td>
+        <td>10,23</td>
+                <td>2,30</td>
+        <td>70&nbsp;101</td>
+        <td>90</td>
+        <td>714,83</td>
+    </tr>
+        <tr>
+        <td class="left">INPRO</td>
+        <td class="left">PLINPRO00015</td>
+        <td>PLN</td>
+        <td>4,50</td>
+        <td>4,50</td>
+        <td>4,50</td>
+        <td>4,50</td>
+                <td>-1,10</td>
+        <td>1</td>
+        <td>1</td>
+        <td>0,00</td>
+    </tr>
+        <tr>
+        <td class="left">INSTALKRK</td>
+        <td class="left">PLINSTK00013</td>
+        <td>PLN</td>
+        <td>13,10</td>
+        <td>13,20</td>
+        <td>13,10</td>
+        <td>13,20</td>
+                <td>0,76</td>
+        <td>811</td>
+        <td>7</td>
+        <td>10,64</td>
+    </tr>
+        <tr>
+        <td class="left">INTEGERPL</td>
+        <td class="left">PLINTEG00011</td>
+        <td>PLN</td>
+        <td>42,60</td>
+        <td>43,50</td>
+        <td>42,60</td>
+        <td>43,09</td>
+                <td>1,15</td>
+        <td>28&nbsp;759</td>
+        <td>210</td>
+        <td>1&nbsp;235,50</td>
+    </tr>
+        <tr>
+        <td class="left">INTERAOLT</td>
+        <td class="left">LT0000128621</td>
+        <td>PLN</td>
+        <td>14,95</td>
+        <td>14,95</td>
+        <td>14,74</td>
+        <td>14,95</td>
+                <td>-0,33</td>
+        <td>1&nbsp;617</td>
+        <td>5</td>
+        <td>24,11</td>
+    </tr>
+        <tr>
+        <td class="left">INTERBUD</td>
+        <td class="left">PLINTBD00014</td>
+        <td>PLN</td>
+        <td>1,00</td>
+        <td>1,00</td>
+        <td>0,90</td>
+        <td>0,94</td>
+                <td>-6,00</td>
+        <td>59&nbsp;853</td>
+        <td>54</td>
+        <td>56,81</td>
+    </tr>
+        <tr>
+        <td class="left">INTERCARS</td>
+        <td class="left">PLINTCS00010</td>
+        <td>PLN</td>
+        <td>315,00</td>
+        <td>317,00</td>
+        <td>314,25</td>
+        <td>315,55</td>
+                <td>0,49</td>
+        <td>6&nbsp;630</td>
+        <td>196</td>
+        <td>2&nbsp;091,98</td>
+    </tr>
+        <tr>
+        <td class="left">INTERFERI</td>
+        <td class="left">PLINTFR00023</td>
+        <td>PLN</td>
+        <td>4,41</td>
+        <td>4,41</td>
+        <td>4,41</td>
+        <td>4,41</td>
+                <td>0,23</td>
+        <td>5</td>
+        <td>1</td>
+        <td>0,02</td>
+    </tr>
+        <tr>
+        <td class="left">INTERSPPL</td>
+        <td class="left">PLINTSP00038</td>
+        <td>PLN</td>
+        <td>2,20</td>
+        <td>2,20</td>
+        <td>2,14</td>
+        <td>2,15</td>
+                <td>-1,38</td>
+        <td>7&nbsp;648</td>
+        <td>10</td>
+        <td>16,39</td>
+    </tr>
+        <tr>
+        <td class="left">INTROL</td>
+        <td class="left">PLINTRL00013</td>
+        <td>PLN</td>
+        <td>7,90</td>
+        <td>7,90</td>
+        <td>7,85</td>
+        <td>7,85</td>
+                <td>-0,63</td>
+        <td>1&nbsp;140</td>
+        <td>12</td>
+        <td>8,97</td>
+    </tr>
+        <tr>
+        <td class="left">INVISTA</td>
+        <td class="left">PLECMNG00019</td>
+        <td>PLN</td>
+        <td>1,24</td>
+        <td>1,27</td>
+        <td>1,20</td>
+        <td>1,27</td>
+                <td>2,42</td>
+        <td>13&nbsp;340</td>
+        <td>24</td>
+        <td>16,54</td>
+    </tr>
+        <tr>
+        <td class="left">IPOPEMA</td>
+        <td class="left">PLIPOPM00011</td>
+        <td>PLN</td>
+        <td>1,97</td>
+        <td>1,97</td>
+        <td>1,89</td>
+        <td>1,97</td>
+                <td>0,00</td>
+        <td>13&nbsp;795</td>
+        <td>20</td>
+        <td>26,86</td>
+    </tr>
+        <tr>
+        <td class="left">IQP</td>
+        <td class="left">PLIQPRT00017</td>
+        <td>PLN</td>
+        <td>0,42</td>
+        <td>0,42</td>
+        <td>0,41</td>
+        <td>0,41</td>
+                <td>-2,38</td>
+        <td>22</td>
+        <td>3</td>
+        <td>0,01</td>
+    </tr>
+        <tr>
+        <td class="left">IZOBLOK</td>
+        <td class="left">PLIZBLK00010</td>
+        <td>PLN</td>
+        <td>189,50</td>
+        <td>189,50</td>
+        <td>188,10</td>
+        <td>189,00</td>
+                <td>-0,26</td>
+        <td>12&nbsp;312</td>
+        <td>15</td>
+        <td>2&nbsp;320,85</td>
+    </tr>
+        <tr>
+        <td class="left">IZOLACJA</td>
+        <td class="left">PLIZCJR00017</td>
+        <td>PLN</td>
+        <td>1,59</td>
+        <td>1,65</td>
+        <td>1,59</td>
+        <td>1,65</td>
+                <td>3,77</td>
+        <td>11&nbsp;556</td>
+        <td>11</td>
+        <td>18,56</td>
+    </tr>
+        <tr>
+        <td class="left">IZOSTAL</td>
+        <td class="left">PLIZSTL00015</td>
+        <td>PLN</td>
+        <td>5,65</td>
+        <td>5,94</td>
+        <td>5,64</td>
+        <td>5,94</td>
+                <td>5,13</td>
+        <td>6&nbsp;020</td>
+        <td>28</td>
+        <td>34,68</td>
+    </tr>
+        <tr>
+        <td class="left">JHMDEV</td>
+        <td class="left">PLJHMDL00018</td>
+        <td>PLN</td>
+        <td>1,51</td>
+        <td>1,51</td>
+        <td>1,44</td>
+        <td>1,50</td>
+                <td>-1,32</td>
+        <td>29&nbsp;712</td>
+        <td>23</td>
+        <td>44,13</td>
+    </tr>
+        <tr>
+        <td class="left">JJAUTO</td>
+        <td class="left">DE000A1TNS70</td>
+        <td>PLN</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>9,70</td>
+                <td>0,00</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0,00</td>
+    </tr>
+        <tr>
+        <td class="left">JSW</td>
+        <td class="left">PLJSW0000015</td>
+        <td>PLN</td>
+        <td>70,99</td>
+        <td>70,99</td>
+        <td>68,08</td>
+        <td>69,70</td>
+                <td>-0,98</td>
+        <td>617&nbsp;806</td>
+        <td>4&nbsp;103</td>
+        <td>42&nbsp;789,47</td>
+    </tr>
+        <tr>
+        <td class="left">JWCONSTR</td>
+        <td class="left">PLJWC0000019</td>
+        <td>PLN</td>
+        <td>4,71</td>
+        <td>4,72</td>
+        <td>4,71</td>
+        <td>4,72</td>
+                <td>0,00</td>
+        <td>13&nbsp;546</td>
+        <td>19</td>
+        <td>63,88</td>
+    </tr>
+        <tr>
+        <td class="left">K2INTERNT</td>
+        <td class="left">PLK2ITR00010</td>
+        <td>PLN</td>
+        <td>14,95</td>
+        <td>14,95</td>
+        <td>14,95</td>
+        <td>14,95</td>
+                <td>0,27</td>
+        <td>1</td>
+        <td>1</td>
+        <td>0,01</td>
+    </tr>
+        <tr>
+        <td class="left">KANIA</td>
+        <td class="left">PLIZNS000022</td>
+        <td>PLN</td>
+        <td>2,10</td>
+        <td>2,14</td>
+        <td>2,10</td>
+        <td>2,14</td>
+                <td>1,90</td>
+        <td>61&nbsp;136</td>
+        <td>20</td>
+        <td>129,71</td>
+    </tr>
+        <tr>
+        <td class="left">KBDOM</td>
+        <td class="left">PLTRAST00020</td>
+        <td>PLN</td>
+        <td>3,07</td>
+        <td>3,20</td>
+        <td>3,07</td>
+        <td>3,20</td>
+                <td>0,00</td>
+        <td>11</td>
+        <td>2</td>
+        <td>0,04</td>
+    </tr>
+        <tr>
+        <td class="left">KCI</td>
+        <td class="left">PLPONAR00012</td>
+        <td>PLN</td>
+        <td>0,69</td>
+        <td>0,71</td>
+        <td>0,68</td>
+        <td>0,71</td>
+                <td>0,00</td>
+        <td>9&nbsp;394</td>
+        <td>24</td>
+        <td>6,47</td>
+    </tr>
+        <tr>
+        <td class="left">KDMSHIPNG</td>
+        <td class="left">CY0102492119</td>
+        <td>PLN</td>
+        <td>5,00</td>
+        <td>5,39</td>
+        <td>5,00</td>
+        <td>5,39</td>
+                <td>19,78</td>
+        <td>2&nbsp;212</td>
+        <td>10</td>
+        <td>11,38</td>
+    </tr>
+        <tr>
+        <td class="left">KERDOS</td>
+        <td class="left">PLHGNKA00028</td>
+        <td>PLN</td>
+        <td>0,08</td>
+        <td>0,08</td>
+        <td>0,08</td>
+        <td>0,08</td>
+                <td>0,00</td>
+        <td>76&nbsp;140</td>
+        <td>6</td>
+        <td>6,09</td>
+    </tr>
+        <tr>
+        <td class="left">KERNEL</td>
+        <td class="left">LU0327357389</td>
+        <td>PLN</td>
+        <td>79,99</td>
+        <td>79,99</td>
+        <td>77,19</td>
+        <td>78,50</td>
+                <td>-1,38</td>
+        <td>51&nbsp;528</td>
+        <td>821</td>
+        <td>4&nbsp;058,02</td>
+    </tr>
+        <tr>
+        <td class="left">KETY</td>
+        <td class="left">PLKETY000011</td>
+        <td>PLN</td>
+        <td>416,60</td>
+        <td>417,20</td>
+        <td>410,30</td>
+        <td>410,80</td>
+                <td>-1,51</td>
+        <td>2&nbsp;491</td>
+        <td>155</td>
+        <td>1&nbsp;033,02</td>
+    </tr>
+        <tr>
+        <td class="left">KGHM</td>
+        <td class="left">PLKGHM000017</td>
+        <td>PLN</td>
+        <td>130,15</td>
+        <td>130,50</td>
+        <td>128,10</td>
+        <td>129,00</td>
+                <td>-1,34</td>
+        <td>894&nbsp;330</td>
+        <td>6&nbsp;262</td>
+        <td>115&nbsp;446,24</td>
+    </tr>
+        <tr>
+        <td class="left">KGL</td>
+        <td class="left">PLKRKGL00012</td>
+        <td>PLN</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>27,49</td>
+                <td>0,00</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0,00</td>
+    </tr>
+        <tr>
+        <td class="left">KINOPOL</td>
+        <td class="left">PLKNOPL00014</td>
+        <td>PLN</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>12,50</td>
+                <td>0,00</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0,00</td>
+    </tr>
+        <tr>
+        <td class="left">KOFOL</td>
+        <td class="left">CZ0009000121</td>
+        <td>PLN</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>63,00</td>
+                <td>0,00</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0,00</td>
+    </tr>
+        <tr>
+        <td class="left">KOGENERA</td>
+        <td class="left">PLKGNRC00015</td>
+        <td>PLN</td>
+        <td>88,47</td>
+        <td>88,50</td>
+        <td>87,50</td>
+        <td>88,50</td>
+                <td>0,02</td>
+        <td>551</td>
+        <td>15</td>
+        <td>48,41</td>
+    </tr>
+        <tr>
+        <td class="left">KOMPAP</td>
+        <td class="left">PLKOMPP00017</td>
+        <td>PLN</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>7,52</td>
+                <td>0,00</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0,00</td>
+    </tr>
+        <tr>
+        <td class="left">KOMPUTRON</td>
+        <td class="left">PLKMPTR00012</td>
+        <td>PLN</td>
+        <td>6,20</td>
+        <td>6,20</td>
+        <td>6,03</td>
+        <td>6,16</td>
+                <td>-0,65</td>
+        <td>3&nbsp;906</td>
+        <td>18</td>
+        <td>23,97</td>
+    </tr>
+        <tr>
+        <td class="left">KONSSTALI</td>
+        <td class="left">PLKCSTL00010</td>
+        <td>PLN</td>
+        <td>40,56</td>
+        <td>40,56</td>
+        <td>39,70</td>
+        <td>39,70</td>
+                <td>-0,75</td>
+        <td>231</td>
+        <td>6</td>
+        <td>9,18</td>
+    </tr>
+        <tr>
+        <td class="left">KOPEX</td>
+        <td class="left">PLKOPEX00018</td>
+        <td>PLN</td>
+        <td>4,18</td>
+        <td>4,19</td>
+        <td>4,02</td>
+        <td>4,05</td>
+                <td>-3,57</td>
+        <td>270&nbsp;264</td>
+        <td>261</td>
+        <td>1&nbsp;106,14</td>
+    </tr>
+        <tr>
+        <td class="left">KPPD</td>
+        <td class="left">PLKPPD000017</td>
+        <td>PLN</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>26,10</td>
+                <td>0,00</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0,00</td>
+    </tr>
+        <tr>
+        <td class="left">KRAKCHEM</td>
+        <td class="left">PLKRKCH00019</td>
+        <td>PLN</td>
+        <td>3,19</td>
+        <td>3,19</td>
+        <td>3,10</td>
+        <td>3,19</td>
+                <td>0,00</td>
+        <td>2&nbsp;744</td>
+        <td>6</td>
+        <td>8,55</td>
+    </tr>
+        <tr>
+        <td class="left">KREC</td>
+        <td class="left">PLKRNRC00012</td>
+        <td>PLN</td>
+        <td>6,15</td>
+        <td>6,15</td>
+        <td>5,89</td>
+        <td>6,10</td>
+                <td>-0,81</td>
+        <td>6&nbsp;071</td>
+        <td>15</td>
+        <td>36,21</td>
+    </tr>
+        <tr>
+        <td class="left">KREDYTIN</td>
+        <td class="left">PLKRINK00014</td>
+        <td>PLN</td>
+        <td>22,30</td>
+        <td>22,30</td>
+        <td>22,30</td>
+        <td>22,30</td>
+                <td>0,00</td>
+        <td>1&nbsp;669</td>
+        <td>7</td>
+        <td>37,22</td>
+    </tr>
+        <tr>
+        <td class="left">KREZUS</td>
+        <td class="left">PLNFI0200019</td>
+        <td>PLN</td>
+        <td>1,65</td>
+        <td>1,67</td>
+        <td>1,62</td>
+        <td>1,65</td>
+                <td>0,00</td>
+        <td>47&nbsp;770</td>
+        <td>65</td>
+        <td>78,41</td>
+    </tr>
+        <tr>
+        <td class="left">KRKA</td>
+        <td class="left">SI0031102120</td>
+        <td>PLN</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>225,00</td>
+                <td>0,00</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0,00</td>
+    </tr>
+        <tr>
+        <td class="left">KRUK</td>
+        <td class="left">PLKRK0000010</td>
+        <td>PLN</td>
+        <td>248,00</td>
+        <td>248,00</td>
+        <td>240,65</td>
+        <td>245,00</td>
+                <td>-0,81</td>
+        <td>47&nbsp;217</td>
+        <td>563</td>
+        <td>11&nbsp;574,78</td>
+    </tr>
+        <tr>
+        <td class="left">KRUSZWICA</td>
+        <td class="left">PLKRUSZ00016</td>
+        <td>PLN</td>
+        <td>57,90</td>
+        <td>59,97</td>
+        <td>57,70</td>
+        <td>59,97</td>
+                <td>3,58</td>
+        <td>1&nbsp;330</td>
+        <td>30</td>
+        <td>79,05</td>
+    </tr>
+        <tr>
+        <td class="left">KRVITAMIN</td>
+        <td class="left">PLKRVTM00010</td>
+        <td>PLN</td>
+        <td>7,18</td>
+        <td>7,18</td>
+        <td>7,06</td>
+        <td>7,18</td>
+                <td>0,00</td>
+        <td>3&nbsp;773</td>
+        <td>8</td>
+        <td>26,86</td>
+    </tr>
+        <tr>
+        <td class="left">KSGAGRO</td>
+        <td class="left">LU0611262873</td>
+        <td>PLN</td>
+        <td>3,12</td>
+        <td>3,15</td>
+        <td>3,00</td>
+        <td>3,13</td>
+                <td>0,32</td>
+        <td>50&nbsp;370</td>
+        <td>92</td>
+        <td>156,36</td>
+    </tr>
+        <tr>
+        <td class="left">LABOPRINT</td>
+        <td class="left">PLLBPRT00013</td>
+        <td>PLN</td>
+        <td>9,82</td>
+        <td>9,85</td>
+        <td>9,82</td>
+        <td>9,85</td>
+                <td>0,51</td>
+        <td>231</td>
+        <td>4</td>
+        <td>2,27</td>
+    </tr>
+        <tr>
+        <td class="left">LARK</td>
+        <td class="left">PLPPWK000014</td>
+        <td>PLN</td>
+        <td>0,82</td>
+        <td>0,84</td>
+        <td>0,82</td>
+        <td>0,83</td>
+                <td>1,22</td>
+        <td>10&nbsp;370</td>
+        <td>16</td>
+        <td>8,60</td>
+    </tr>
+        <tr>
+        <td class="left">LARQ</td>
+        <td class="left">PLCAMMD00032</td>
+        <td>PLN</td>
+        <td>12,31</td>
+        <td>13,00</td>
+        <td>12,31</td>
+        <td>13,00</td>
+                <td>0,00</td>
+        <td>3&nbsp;970</td>
+        <td>14</td>
+        <td>51,37</td>
+    </tr>
+        <tr>
+        <td class="left">LCCORP</td>
+        <td class="left">PLLCCRP00017</td>
+        <td>PLN</td>
+        <td>2,05</td>
+        <td>2,08</td>
+        <td>2,03</td>
+        <td>2,06</td>
+                <td>0,98</td>
+        <td>315&nbsp;758</td>
+        <td>79</td>
+        <td>649,55</td>
+    </tr>
+        <tr>
+        <td class="left">LENA</td>
+        <td class="left">PLLENAL00015</td>
+        <td>PLN</td>
+        <td>4,09</td>
+        <td>4,12</td>
+        <td>4,08</td>
+        <td>4,11</td>
+                <td>0,24</td>
+        <td>3&nbsp;350</td>
+        <td>12</td>
+        <td>13,74</td>
+    </tr>
+        <tr>
+        <td class="left">LENTEX</td>
+        <td class="left">PLLENTX00010</td>
+        <td>PLN</td>
+        <td>10,40</td>
+        <td>10,40</td>
+        <td>10,30</td>
+        <td>10,38</td>
+                <td>-0,10</td>
+        <td>4&nbsp;739</td>
+        <td>22</td>
+        <td>49,05</td>
+    </tr>
+        <tr>
+        <td class="left">LIBET</td>
+        <td class="left">PLLBT0000013</td>
+        <td>PLN</td>
+        <td>1,60</td>
+        <td>1,64</td>
+        <td>1,58</td>
+        <td>1,62</td>
+                <td>1,25</td>
+        <td>15&nbsp;349</td>
+        <td>13</td>
+        <td>24,67</td>
+    </tr>
+        <tr>
+        <td class="left">LIVECHAT</td>
+        <td class="left">PLLVTSF00010</td>
+        <td>PLN</td>
+        <td>51,50</td>
+        <td>51,79</td>
+        <td>51,00</td>
+        <td>51,05</td>
+                <td>-0,87</td>
+        <td>13&nbsp;654</td>
+        <td>195</td>
+        <td>699,82</td>
+    </tr>
+        <tr>
+        <td class="left">LOKUM</td>
+        <td class="left">PLLKMDW00049</td>
+        <td>PLN</td>
+        <td>13,65</td>
+        <td>13,87</td>
+        <td>13,65</td>
+        <td>13,87</td>
+                <td>-0,07</td>
+        <td>331</td>
+        <td>2</td>
+        <td>4,52</td>
+    </tr>
+        <tr>
+        <td class="left">LOTOS</td>
+        <td class="left">PLLOTOS00025</td>
+        <td>PLN</td>
+        <td>50,00</td>
+        <td>50,29</td>
+        <td>48,27</td>
+        <td>48,63</td>
+                <td>-3,32</td>
+        <td>467&nbsp;306</td>
+        <td>2&nbsp;346</td>
+        <td>22&nbsp;861,68</td>
+    </tr>
+        <tr>
+        <td class="left">LPP</td>
+        <td class="left">PLLPP0000011</td>
+        <td>PLN</td>
+        <td>5&nbsp;800,00</td>
+        <td>5&nbsp;800,00</td>
+        <td>5&nbsp;600,00</td>
+        <td>5&nbsp;661,30</td>
+                <td>-2,05</td>
+        <td>4&nbsp;739</td>
+        <td>1&nbsp;182</td>
+        <td>27&nbsp;033,78</td>
+    </tr>
+        <tr>
+        <td class="left">LSISOFT</td>
+        <td class="left">PLLSSFT00016</td>
+        <td>PLN</td>
+        <td>11,07</td>
+        <td>11,07</td>
+        <td>10,11</td>
+        <td>10,60</td>
+                <td>-5,36</td>
+        <td>23&nbsp;956</td>
+        <td>90</td>
+        <td>254,71</td>
+    </tr>
+        <tr>
+        <td class="left">LUBAWA</td>
+        <td class="left">PLLUBAW00013</td>
+        <td>PLN</td>
+        <td>1,28</td>
+        <td>1,30</td>
+        <td>1,25</td>
+        <td>1,28</td>
+                <td>-0,78</td>
+        <td>231&nbsp;327</td>
+        <td>108</td>
+        <td>294,35</td>
+    </tr>
+        <tr>
+        <td class="left">MABION</td>
+        <td class="left">PLMBION00016</td>
+        <td>PLN</td>
+        <td>103,00</td>
+        <td>103,95</td>
+        <td>99,90</td>
+        <td>102,05</td>
+                <td>-0,63</td>
+        <td>5&nbsp;202</td>
+        <td>102</td>
+        <td>524,04</td>
+    </tr>
+        <tr>
+        <td class="left">MAKARONPL</td>
+        <td class="left">PLMKRNP00015</td>
+        <td>PLN</td>
+        <td>6,35</td>
+        <td>6,75</td>
+        <td>6,15</td>
+        <td>6,70</td>
+                <td>4,69</td>
+        <td>3&nbsp;084</td>
+        <td>14</td>
+        <td>19,05</td>
+    </tr>
+        <tr>
+        <td class="left">MANGATA</td>
+        <td class="left">PLZTKMA00017</td>
+        <td>PLN</td>
+        <td>114,40</td>
+        <td>114,40</td>
+        <td>112,00</td>
+        <td>112,00</td>
+                <td>0,45</td>
+        <td>372</td>
+        <td>11</td>
+        <td>41,84</td>
+    </tr>
+        <tr>
+        <td class="left">MARVIPOL</td>
+        <td class="left">PLMRVPL00016</td>
+        <td>PLN</td>
+        <td>13,10</td>
+        <td>13,10</td>
+        <td>12,60</td>
+        <td>12,96</td>
+                <td>-1,07</td>
+        <td>7&nbsp;054</td>
+        <td>44</td>
+        <td>91,04</td>
+    </tr>
+        <tr>
+        <td class="left">MASTERPHA</td>
+        <td class="left">PLMSTPH00016</td>
+        <td>PLN</td>
+        <td>6,54</td>
+        <td>6,54</td>
+        <td>6,50</td>
+        <td>6,54</td>
+                <td>0,00</td>
+        <td>667</td>
+        <td>3</td>
+        <td>4,34</td>
+    </tr>
+        <tr>
+        <td class="left">MBANK</td>
+        <td class="left">PLBRE0000012</td>
+        <td>PLN</td>
+        <td>404,75</td>
+        <td>407,40</td>
+        <td>396,00</td>
+        <td>396,20</td>
+                <td>-2,43</td>
+        <td>33&nbsp;820</td>
+        <td>1&nbsp;124</td>
+        <td>13&nbsp;491,78</td>
+    </tr>
+        <tr>
+        <td class="left">MBWS</td>
+        <td class="left">FR0000060873</td>
+        <td>PLN</td>
+        <td>66,55</td>
+        <td>66,55</td>
+        <td>66,55</td>
+        <td>66,55</td>
+                <td>0,06</td>
+        <td>1</td>
+        <td>1</td>
+        <td>0,07</td>
+    </tr>
+        <tr>
+        <td class="left">MCI</td>
+        <td class="left">PLMCIMG00012</td>
+        <td>PLN</td>
+        <td>8,35</td>
+        <td>8,50</td>
+        <td>8,32</td>
+        <td>8,45</td>
+                <td>0,00</td>
+        <td>20&nbsp;469</td>
+        <td>24</td>
+        <td>172,98</td>
+    </tr>
+        <tr>
+        <td class="left">MCLOGIC</td>
+        <td class="left">PLMCSFT00018</td>
+        <td>PLN</td>
+        <td>40,36</td>
+        <td>40,36</td>
+        <td>40,35</td>
+        <td>40,35</td>
+                <td>0,12</td>
+        <td>100</td>
+        <td>3</td>
+        <td>4,04</td>
+    </tr>
+        <tr>
+        <td class="left">MDIENERGIA</td>
+        <td class="left">PLNFI1000012</td>
+        <td>PLN</td>
+        <td>4,00</td>
+        <td>4,05</td>
+        <td>3,70</td>
+        <td>3,75</td>
+                <td>-18,48</td>
+        <td>26&nbsp;313</td>
+        <td>92</td>
+        <td>101,14</td>
+    </tr>
+        <tr>
+        <td class="left">MEDIACAP</td>
+        <td class="left">PLEMLAB00018</td>
+        <td>PLN</td>
+        <td>2,64</td>
+        <td>2,64</td>
+        <td>2,64</td>
+        <td>2,64</td>
+                <td>-2,58</td>
+        <td>658</td>
+        <td>1</td>
+        <td>1,74</td>
+    </tr>
+        <tr>
+        <td class="left">MEDIATEL</td>
+        <td class="left">PLSMMDA00012</td>
+        <td>PLN</td>
+        <td>0,75</td>
+        <td>0,75</td>
+        <td>0,75</td>
+        <td>0,75</td>
+                <td>0,00</td>
+        <td>400</td>
+        <td>1</td>
+        <td>0,30</td>
+    </tr>
+        <tr>
+        <td class="left">MEDICALG</td>
+        <td class="left">PLMDCLG00015</td>
+        <td>PLN</td>
+        <td>340,00</td>
+        <td>340,00</td>
+        <td>335,00</td>
+        <td>338,00</td>
+                <td>-0,57</td>
+        <td>2&nbsp;328</td>
+        <td>133</td>
+        <td>790,02</td>
+    </tr>
+        <tr>
+        <td class="left">MEGARON</td>
+        <td class="left">PLMGRON00016</td>
+        <td>PLN</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>14,11</td>
+                <td>0,00</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0,00</td>
+    </tr>
+        <tr>
+        <td class="left">MENNICA</td>
+        <td class="left">PLMNNCP00011</td>
+        <td>PLN</td>
+        <td>16,60</td>
+        <td>16,60</td>
+        <td>16,60</td>
+        <td>16,60</td>
+                <td>-1,78</td>
+        <td>199</td>
+        <td>4</td>
+        <td>3,30</td>
+    </tr>
+        <tr>
+        <td class="left">MERCATOR</td>
+        <td class="left">PLMRCTR00015</td>
+        <td>PLN</td>
+        <td>20,60</td>
+        <td>20,89</td>
+        <td>20,10</td>
+        <td>20,69</td>
+                <td>-0,29</td>
+        <td>7&nbsp;359</td>
+        <td>63</td>
+        <td>149,41</td>
+    </tr>
+        <tr>
+        <td class="left">MERCOR</td>
+        <td class="left">PLMRCOR00016</td>
+        <td>PLN</td>
+        <td>11,43</td>
+        <td>11,50</td>
+        <td>11,32</td>
+        <td>11,50</td>
+                <td>-0,61</td>
+        <td>20&nbsp;691</td>
+        <td>13</td>
+        <td>237,87</td>
+    </tr>
+        <tr>
+        <td class="left">MEXPOLSKA</td>
+        <td class="left">PLMEXPL00010</td>
+        <td>PLN</td>
+        <td>8,00</td>
+        <td>8,00</td>
+        <td>7,70</td>
+        <td>7,88</td>
+                <td>-0,25</td>
+        <td>5&nbsp;167</td>
+        <td>11</td>
+        <td>40,18</td>
+    </tr>
+        <tr>
+        <td class="left">MFO</td>
+        <td class="left">PLMFO0000013</td>
+        <td>PLN</td>
+        <td>32,02</td>
+        <td>32,99</td>
+        <td>32,01</td>
+        <td>32,99</td>
+                <td>0,00</td>
+        <td>1&nbsp;906</td>
+        <td>11</td>
+        <td>62,08</td>
+    </tr>
+        <tr>
+        <td class="left">MILKILAND</td>
+        <td class="left">NL0009508712</td>
+        <td>PLN</td>
+        <td>2,54</td>
+        <td>2,54</td>
+        <td>2,44</td>
+        <td>2,53</td>
+                <td>-0,39</td>
+        <td>5&nbsp;505</td>
+        <td>11</td>
+        <td>13,64</td>
+    </tr>
+        <tr>
+        <td class="left">MILLENNIUM</td>
+        <td class="left">PLBIG0000016</td>
+        <td>PLN</td>
+        <td>6,81</td>
+        <td>6,84</td>
+        <td>6,63</td>
+        <td>6,82</td>
+                <td>0,00</td>
+        <td>1&nbsp;777&nbsp;757</td>
+        <td>580</td>
+        <td>12&nbsp;054,76</td>
+    </tr>
+        <tr>
+        <td class="left">MIRACULUM</td>
+        <td class="left">PLKLSTN00017</td>
+        <td>PLN</td>
+        <td>2,36</td>
+        <td>2,36</td>
+        <td>2,25</td>
+        <td>2,30</td>
+                <td>-2,54</td>
+        <td>47&nbsp;034</td>
+        <td>14</td>
+        <td>107,98</td>
+    </tr>
+        <tr>
+        <td class="left">MIRBUD</td>
+        <td class="left">PLMRBUD00015</td>
+        <td>PLN</td>
+        <td>1,35</td>
+        <td>1,38</td>
+        <td>1,29</td>
+        <td>1,34</td>
+                <td>-2,19</td>
+        <td>958&nbsp;929</td>
+        <td>335</td>
+        <td>1&nbsp;276,39</td>
+    </tr>
+        <tr>
+        <td class="left">MLPGROUP</td>
+        <td class="left">PLMLPGR00017</td>
+        <td>PLN</td>
+        <td>46,71</td>
+        <td>46,72</td>
+        <td>46,71</td>
+        <td>46,72</td>
+                <td>0,00</td>
+        <td>2</td>
+        <td>2</td>
+        <td>0,09</td>
+    </tr>
+        <tr>
+        <td class="left">MNI</td>
+        <td class="left">PLSZPTL00010</td>
+        <td>PLN</td>
+        <td>0,22</td>
+        <td>0,22</td>
+        <td>0,21</td>
+        <td>0,21</td>
+                <td>-8,70</td>
+        <td>185&nbsp;379</td>
+        <td>16</td>
+        <td>40,75</td>
+    </tr>
+        <tr>
+        <td class="left">MOBRUK</td>
+        <td class="left">PLMOBRK00013</td>
+        <td>PLN</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>25,29</td>
+                <td>0,00</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0,00</td>
+    </tr>
+        <tr>
+        <td class="left">MOJ</td>
+        <td class="left">PLMOJ0000015</td>
+        <td>PLN</td>
+        <td>0,83</td>
+        <td>1,00</td>
+        <td>0,83</td>
+        <td>1,00</td>
+                <td>28,21</td>
+        <td>64&nbsp;472</td>
+        <td>57</td>
+        <td>62,55</td>
+    </tr>
+        <tr>
+        <td class="left">MOL</td>
+        <td class="left">HU0000068952</td>
+        <td>PLN</td>
+        <td>303,00</td>
+        <td>303,00</td>
+        <td>281,00</td>
+        <td>281,00</td>
+                <td>-2,77</td>
+        <td>88</td>
+        <td>10</td>
+        <td>25,34</td>
+    </tr>
+        <tr>
+        <td class="left">MONNARI</td>
+        <td class="left">PLMNRTR00012</td>
+        <td>PLN</td>
+        <td>9,20</td>
+        <td>9,20</td>
+        <td>8,80</td>
+        <td>9,05</td>
+                <td>-1,20</td>
+        <td>37&nbsp;541</td>
+        <td>113</td>
+        <td>339,66</td>
+    </tr>
+        <tr>
+        <td class="left">MOSTALPLC</td>
+        <td class="left">PLMSTPL00018</td>
+        <td>PLN</td>
+        <td>12,80</td>
+        <td>12,80</td>
+        <td>12,75</td>
+        <td>12,80</td>
+                <td>0,00</td>
+        <td>36</td>
+        <td>3</td>
+        <td>0,46</td>
+    </tr>
+        <tr>
+        <td class="left">MOSTALWAR</td>
+        <td class="left">PLMSTWS00019</td>
+        <td>PLN</td>
+        <td>12,08</td>
+        <td>12,26</td>
+        <td>12,00</td>
+        <td>12,26</td>
+                <td>0,33</td>
+        <td>4&nbsp;918</td>
+        <td>25</td>
+        <td>60,04</td>
+    </tr>
+        <tr>
+        <td class="left">MOSTALZAB</td>
+        <td class="left">PLMSTZB00018</td>
+        <td>PLN</td>
+        <td>1,33</td>
+        <td>1,34</td>
+        <td>1,31</td>
+        <td>1,32</td>
+                <td>-1,49</td>
+        <td>78&nbsp;678</td>
+        <td>66</td>
+        <td>103,90</td>
+    </tr>
+        <tr>
+        <td class="left">MUZA</td>
+        <td class="left">PLMUZA000019</td>
+        <td>PLN</td>
+        <td>3,84</td>
+        <td>3,84</td>
+        <td>3,70</td>
+        <td>3,75</td>
+                <td>-2,34</td>
+        <td>1&nbsp;997</td>
+        <td>3</td>
+        <td>7,39</td>
+    </tr>
+        <tr>
+        <td class="left">MWTRADE</td>
+        <td class="left">PLMWTRD00013</td>
+        <td>PLN</td>
+        <td>11,11</td>
+        <td>11,60</td>
+        <td>11,11</td>
+        <td>11,59</td>
+                <td>4,60</td>
+        <td>3&nbsp;897</td>
+        <td>13</td>
+        <td>44,66</td>
+    </tr>
+        <tr>
+        <td class="left">NETIA</td>
+        <td class="left">PLNETIA00014</td>
+        <td>PLN</td>
+        <td>4,60</td>
+        <td>4,64</td>
+        <td>4,50</td>
+        <td>4,50</td>
+                <td>-2,17</td>
+        <td>191&nbsp;069</td>
+        <td>117</td>
+        <td>871,09</td>
+    </tr>
+        <tr>
+        <td class="left">NETMEDIA</td>
+        <td class="left">PLNTMDA00018</td>
+        <td>PLN</td>
+        <td>6,35</td>
+        <td>6,35</td>
+        <td>6,35</td>
+        <td>6,35</td>
+                <td>0,00</td>
+        <td>253</td>
+        <td>2</td>
+        <td>1,61</td>
+    </tr>
+        <tr>
+        <td class="left">NEUCA</td>
+        <td class="left">PLTRFRM00018</td>
+        <td>PLN</td>
+        <td>389,95</td>
+        <td>399,55</td>
+        <td>385,25</td>
+        <td>399,55</td>
+                <td>2,46</td>
+        <td>6&nbsp;714</td>
+        <td>155</td>
+        <td>2&nbsp;661,33</td>
+    </tr>
+        <tr>
+        <td class="left">NEWAG</td>
+        <td class="left">PLNEWAG00012</td>
+        <td>PLN</td>
+        <td>16,89</td>
+        <td>17,26</td>
+        <td>16,40</td>
+        <td>17,26</td>
+                <td>3,04</td>
+        <td>34&nbsp;514</td>
+        <td>98</td>
+        <td>582,67</td>
+    </tr>
+        <tr>
+        <td class="left">NEWWORLDR</td>
+        <td class="left">GB00B42CTW68</td>
+        <td>PLN</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,02</td>
+                <td>0,00</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0,00</td>
+    </tr>
+        <tr>
+        <td class="left">NORTCOAST</td>
+        <td class="left">PLNRTHC00014</td>
+        <td>PLN</td>
+        <td>4,75</td>
+        <td>4,75</td>
+        <td>4,75</td>
+        <td>4,75</td>
+                <td>0,00</td>
+        <td>10</td>
+        <td>10</td>
+        <td>0,05</td>
+    </tr>
+        <tr>
+        <td class="left">NOVITA</td>
+        <td class="left">PLNVITA00018</td>
+        <td>PLN</td>
+        <td>59,20</td>
+        <td>59,49</td>
+        <td>59,20</td>
+        <td>59,49</td>
+                <td>0,49</td>
+        <td>237</td>
+        <td>5</td>
+        <td>14,06</td>
+    </tr>
+        <tr>
+        <td class="left">NOWAGALA</td>
+        <td class="left">PLCRMNG00029</td>
+        <td>PLN</td>
+        <td>1,45</td>
+        <td>1,47</td>
+        <td>1,45</td>
+        <td>1,47</td>
+                <td>0,68</td>
+        <td>2&nbsp;139</td>
+        <td>155</td>
+        <td>3,14</td>
+    </tr>
+        <tr>
+        <td class="left">NTTSYSTEM</td>
+        <td class="left">PLNTSYS00013</td>
+        <td>PLN</td>
+        <td>3,03</td>
+        <td>3,03</td>
+        <td>2,92</td>
+        <td>3,01</td>
+                <td>0,00</td>
+        <td>1&nbsp;108</td>
+        <td>20</td>
+        <td>3,32</td>
+    </tr>
+        <tr>
+        <td class="left">ODLEWNIE</td>
+        <td class="left">PLODLPL00013</td>
+        <td>PLN</td>
+        <td>4,70</td>
+        <td>4,70</td>
+        <td>4,70</td>
+        <td>4,70</td>
+                <td>0,00</td>
+        <td>100</td>
+        <td>1</td>
+        <td>0,47</td>
+    </tr>
+        <tr>
+        <td class="left">OEX</td>
+        <td class="left">PLTELL000023</td>
+        <td>PLN</td>
+        <td>18,81</td>
+        <td>18,81</td>
+        <td>18,80</td>
+        <td>18,80</td>
+                <td>-1,05</td>
+        <td>222</td>
+        <td>2</td>
+        <td>4,17</td>
+    </tr>
+        <tr>
+        <td class="left">OLYMPIC</td>
+        <td class="left">EE3100084021</td>
+        <td>PLN</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>8,30</td>
+                <td>0,00</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0,00</td>
+    </tr>
+        <tr>
+        <td class="left">OPENFIN</td>
+        <td class="left">PLOPNFN00010</td>
+        <td>PLN</td>
+        <td>1,88</td>
+        <td>1,90</td>
+        <td>1,79</td>
+        <td>1,90</td>
+                <td>1,06</td>
+        <td>43&nbsp;266</td>
+        <td>90</td>
+        <td>80,44</td>
+    </tr>
+        <tr>
+        <td class="left">OPONEO.PL</td>
+        <td class="left">PLOPNPL00013</td>
+        <td>PLN</td>
+        <td>51,11</td>
+        <td>51,11</td>
+        <td>49,00</td>
+        <td>50,07</td>
+                <td>-1,75</td>
+        <td>26&nbsp;218</td>
+        <td>206</td>
+        <td>1&nbsp;299,02</td>
+    </tr>
+        <tr>
+        <td class="left">OPTEAM</td>
+        <td class="left">PLOPTEM00012</td>
+        <td>PLN</td>
+        <td>7,84</td>
+        <td>7,84</td>
+        <td>7,68</td>
+        <td>7,84</td>
+                <td>1,69</td>
+        <td>1&nbsp;996</td>
+        <td>8</td>
+        <td>15,45</td>
+    </tr>
+        <tr>
+        <td class="left">ORANGEPL</td>
+        <td class="left">PLTLKPL00017</td>
+        <td>PLN</td>
+        <td>4,70</td>
+        <td>4,73</td>
+        <td>4,64</td>
+        <td>4,73</td>
+                <td>0,85</td>
+        <td>4&nbsp;019&nbsp;837</td>
+        <td>1&nbsp;674</td>
+        <td>18&nbsp;833,39</td>
+    </tr>
+        <tr>
+        <td class="left">ORBIS</td>
+        <td class="left">PLORBIS00014</td>
+        <td>PLN</td>
+        <td>79,95</td>
+        <td>79,98</td>
+        <td>79,01</td>
+        <td>79,01</td>
+                <td>-0,05</td>
+        <td>1&nbsp;539</td>
+        <td>32</td>
+        <td>121,89</td>
+    </tr>
+        <tr>
+        <td class="left">ORCOGROUP</td>
+        <td class="left">LU0122624777</td>
+        <td>PLN</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>1,00</td>
+                <td>0,00</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0,00</td>
+    </tr>
+        <tr>
+        <td class="left">ORION</td>
+        <td class="left">PLORION00018</td>
+        <td>PLN</td>
+        <td>80,00</td>
+        <td>81,08</td>
+        <td>74,00</td>
+        <td>81,08</td>
+                <td>6,68</td>
+        <td>141</td>
+        <td>17</td>
+        <td>10,98</td>
+    </tr>
+        <tr>
+        <td class="left">ORZBIALY</td>
+        <td class="left">PLORZBL00013</td>
+        <td>PLN</td>
+        <td>9,45</td>
+        <td>9,69</td>
+        <td>9,45</td>
+        <td>9,55</td>
+                <td>1,06</td>
+        <td>8&nbsp;719</td>
+        <td>49</td>
+        <td>82,67</td>
+    </tr>
+        <tr>
+        <td class="left">OTLOG</td>
+        <td class="left">PLODRTS00017</td>
+        <td>PLN</td>
+        <td>24,90</td>
+        <td>24,90</td>
+        <td>24,50</td>
+        <td>24,50</td>
+                <td>-1,61</td>
+        <td>260</td>
+        <td>3</td>
+        <td>6,39</td>
+    </tr>
+        <tr>
+        <td class="left">OTMUCHOW</td>
+        <td class="left">PLZPCOT00018</td>
+        <td>PLN</td>
+        <td>4,70</td>
+        <td>4,70</td>
+        <td>4,64</td>
+        <td>4,70</td>
+                <td>-1,47</td>
+        <td>6&nbsp;198</td>
+        <td>12</td>
+        <td>29,02</td>
+    </tr>
+        <tr>
+        <td class="left">OVOSTAR</td>
+        <td class="left">NL0009805613</td>
+        <td>PLN</td>
+        <td>93,90</td>
+        <td>94,00</td>
+        <td>93,90</td>
+        <td>93,90</td>
+                <td>-0,05</td>
+        <td>30&nbsp;134</td>
+        <td>5</td>
+        <td>2&nbsp;832,58</td>
+    </tr>
+        <tr>
+        <td class="left">PAGED</td>
+        <td class="left">PLPAGED00017</td>
+        <td>PLN</td>
+        <td>52,45</td>
+        <td>53,00</td>
+        <td>52,11</td>
+        <td>53,00</td>
+                <td>1,15</td>
+        <td>1&nbsp;465</td>
+        <td>23</td>
+        <td>77,34</td>
+    </tr>
+        <tr>
+        <td class="left">PAMAPOL</td>
+        <td class="left">PLPMPOL00031</td>
+        <td>PLN</td>
+        <td>1,50</td>
+        <td>1,50</td>
+        <td>1,45</td>
+        <td>1,50</td>
+                <td>0,00</td>
+        <td>10&nbsp;320</td>
+        <td>6</td>
+        <td>15,00</td>
+    </tr>
+        <tr>
+        <td class="left">PANOVA</td>
+        <td class="left">PLPANVA00013</td>
+        <td>PLN</td>
+        <td>24,46</td>
+        <td>24,46</td>
+        <td>24,30</td>
+        <td>24,30</td>
+                <td>-0,82</td>
+        <td>1&nbsp;118</td>
+        <td>18</td>
+        <td>27,20</td>
+    </tr>
+        <tr>
+        <td class="left">PATENTUS</td>
+        <td class="left">PLPTNTS00019</td>
+        <td>PLN</td>
+        <td>0,81</td>
+        <td>0,81</td>
+        <td>0,81</td>
+        <td>0,81</td>
+                <td>1,25</td>
+        <td>2&nbsp;000</td>
+        <td>2</td>
+        <td>1,62</td>
+    </tr>
+        <tr>
+        <td class="left">PBG</td>
+        <td class="left">PLPBG0000029</td>
+        <td>PLN</td>
+        <td>3,22</td>
+        <td>3,22</td>
+        <td>3,11</td>
+        <td>3,12</td>
+                <td>-3,11</td>
+        <td>67&nbsp;419</td>
+        <td>162</td>
+        <td>212,52</td>
+    </tr>
+        <tr>
+        <td class="left">PBKM</td>
+        <td class="left">PLPBKM000012</td>
+        <td>PLN</td>
+        <td>56,02</td>
+        <td>56,02</td>
+        <td>55,41</td>
+        <td>55,41</td>
+                <td>-0,16</td>
+        <td>277</td>
+        <td>5</td>
+        <td>15,36</td>
+    </tr>
+        <tr>
+        <td class="left">PBSFINANSE</td>
+        <td class="left">PLBEFSN00010</td>
+        <td>PLN</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>1,55</td>
+                <td>0,00</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0,00</td>
+    </tr>
+        <tr>
+        <td class="left">PCCEXOL</td>
+        <td class="left">PLPCCEX00010</td>
+        <td>PLN</td>
+        <td>1,77</td>
+        <td>1,77</td>
+        <td>1,74</td>
+        <td>1,74</td>
+                <td>-0,57</td>
+        <td>612</td>
+        <td>19</td>
+        <td>1,07</td>
+    </tr>
+        <tr>
+        <td class="left">PCCINTER</td>
+        <td class="left">PLPCCIM00014</td>
+        <td>PLN</td>
+        <td>2,45</td>
+        <td>2,45</td>
+        <td>2,44</td>
+        <td>2,45</td>
+                <td>0,00</td>
+        <td>417</td>
+        <td>17</td>
+        <td>1,02</td>
+    </tr>
+        <tr>
+        <td class="left">PCCROKITA</td>
+        <td class="left">PLPCCRK00076</td>
+        <td>PLN</td>
+        <td>65,98</td>
+        <td>65,99</td>
+        <td>65,13</td>
+        <td>65,13</td>
+                <td>-0,64</td>
+        <td>8&nbsp;898</td>
+        <td>55</td>
+        <td>584,06</td>
+    </tr>
+        <tr>
+        <td class="left">PCGUARD</td>
+        <td class="left">PLGUARD00019</td>
+        <td>PLN</td>
+        <td>0,19</td>
+        <td>0,19</td>
+        <td>0,18</td>
+        <td>0,18</td>
+                <td>-5,26</td>
+        <td>39&nbsp;531</td>
+        <td>11</td>
+        <td>7,30</td>
+    </tr>
+        <tr>
+        <td class="left">PCM</td>
+        <td class="left">PLPRMCM00048</td>
+        <td>PLN</td>
+        <td>31,80</td>
+        <td>31,80</td>
+        <td>31,52</td>
+        <td>31,55</td>
+                <td>-0,79</td>
+        <td>3&nbsp;932</td>
+        <td>54</td>
+        <td>124,41</td>
+    </tr>
+        <tr>
+        <td class="left">PEGAS</td>
+        <td class="left">LU0275164910</td>
+        <td>PLN</td>
+        <td>128,35</td>
+        <td>128,35</td>
+        <td>128,35</td>
+        <td>128,35</td>
+                <td>-1,87</td>
+        <td>18</td>
+        <td>1</td>
+        <td>2,31</td>
+    </tr>
+        <tr>
+        <td class="left">PEIXIN</td>
+        <td class="left">NL0010577052</td>
+        <td>PLN</td>
+        <td>2,94</td>
+        <td>2,94</td>
+        <td>2,94</td>
+        <td>2,94</td>
+                <td>1,38</td>
+        <td>3&nbsp;000</td>
+        <td>5</td>
+        <td>8,82</td>
+    </tr>
+        <tr>
+        <td class="left">PEKABEX</td>
+        <td class="left">PLPKBEX00072</td>
+        <td>PLN</td>
+        <td>11,00</td>
+        <td>11,00</td>
+        <td>11,00</td>
+        <td>11,00</td>
+                <td>1,01</td>
+        <td>1&nbsp;083</td>
+        <td>6</td>
+        <td>11,91</td>
+    </tr>
+        <tr>
+        <td class="left">PEKAO</td>
+        <td class="left">PLPEKAO00016</td>
+        <td>PLN</td>
+        <td>141,40</td>
+        <td>141,40</td>
+        <td>138,75</td>
+        <td>139,95</td>
+                <td>-0,74</td>
+        <td>728&nbsp;348</td>
+        <td>3&nbsp;160</td>
+        <td>102&nbsp;012,45</td>
+    </tr>
+        <tr>
+        <td class="left">PELION</td>
+        <td class="left">PLMEDCS00015</td>
+        <td>PLN</td>
+        <td>57,37</td>
+        <td>57,90</td>
+        <td>57,37</td>
+        <td>57,90</td>
+                <td>0,98</td>
+        <td>3&nbsp;056</td>
+        <td>26</td>
+        <td>175,80</td>
+    </tr>
+        <tr>
+        <td class="left">PEMANAGER</td>
+        <td class="left">PLPREQM00011</td>
+        <td>PLN</td>
+        <td>51,60</td>
+        <td>51,60</td>
+        <td>51,00</td>
+        <td>51,00</td>
+                <td>-0,97</td>
+        <td>777</td>
+        <td>17</td>
+        <td>39,73</td>
+    </tr>
+        <tr>
+        <td class="left">PEMUG</td>
+        <td class="left">PLPEMUG00016</td>
+        <td>PLN</td>
+        <td>0,85</td>
+        <td>0,90</td>
+        <td>0,85</td>
+        <td>0,90</td>
+                <td>-4,26</td>
+        <td>11&nbsp;125</td>
+        <td>6</td>
+        <td>9,51</td>
+    </tr>
+        <tr>
+        <td class="left">PEP</td>
+        <td class="left">PLPLSEP00013</td>
+        <td>PLN</td>
+        <td>16,10</td>
+        <td>16,50</td>
+        <td>15,99</td>
+        <td>16,00</td>
+                <td>-0,62</td>
+        <td>26&nbsp;158</td>
+        <td>144</td>
+        <td>420,72</td>
+    </tr>
+        <tr>
+        <td class="left">PEPEES</td>
+        <td class="left">PLPEPES00018</td>
+        <td>PLN</td>
+        <td>1,16</td>
+        <td>1,20</td>
+        <td>1,14</td>
+        <td>1,20</td>
+                <td>4,35</td>
+        <td>16&nbsp;571</td>
+        <td>14</td>
+        <td>19,46</td>
+    </tr>
+        <tr>
+        <td class="left">PETROLINV</td>
+        <td class="left">PLPTRLI00018</td>
+        <td>PLN</td>
+        <td>7,10</td>
+        <td>8,40</td>
+        <td>7,04</td>
+        <td>8,34</td>
+                <td>17,46</td>
+        <td>365&nbsp;286</td>
+        <td>916</td>
+        <td>2&nbsp;876,54</td>
+    </tr>
+        <tr>
+        <td class="left">PFLEIDER</td>
+        <td class="left">PLZPW0000017</td>
+        <td>PLN</td>
+        <td>41,51</td>
+        <td>42,70</td>
+        <td>41,23</td>
+        <td>42,00</td>
+                <td>1,20</td>
+        <td>14&nbsp;305</td>
+        <td>76</td>
+        <td>598,93</td>
+    </tr>
+        <tr>
+        <td class="left">PGE</td>
+        <td class="left">PLPGER000010</td>
+        <td>PLN</td>
+        <td>11,66</td>
+        <td>12,00</td>
+        <td>11,62</td>
+        <td>11,87</td>
+                <td>1,80</td>
+        <td>2&nbsp;921&nbsp;950</td>
+        <td>3&nbsp;022</td>
+        <td>34&nbsp;624,12</td>
+    </tr>
+        <tr>
+        <td class="left">PGNIG</td>
+        <td class="left">PLPGNIG00014</td>
+        <td>PLN</td>
+        <td>6,27</td>
+        <td>6,27</td>
+        <td>6,15</td>
+        <td>6,25</td>
+                <td>-0,32</td>
+        <td>5&nbsp;689&nbsp;142</td>
+        <td>1&nbsp;436</td>
+        <td>35&nbsp;340,90</td>
+    </tr>
+        <tr>
+        <td class="left">PGODLEW</td>
+        <td class="left">PLPGO0000014</td>
+        <td>PLN</td>
+        <td>5,91</td>
+        <td>6,10</td>
+        <td>5,91</td>
+        <td>6,10</td>
+                <td>0,00</td>
+        <td>15&nbsp;019</td>
+        <td>14</td>
+        <td>91,62</td>
+    </tr>
+        <tr>
+        <td class="left">PGSSOFT</td>
+        <td class="left">PLSFTWR00015</td>
+        <td>PLN</td>
+        <td>14,95</td>
+        <td>15,00</td>
+        <td>14,90</td>
+        <td>14,95</td>
+                <td>-0,33</td>
+        <td>3&nbsp;508</td>
+        <td>14</td>
+        <td>52,50</td>
+    </tr>
+        <tr>
+        <td class="left">PHN</td>
+        <td class="left">PLPHN0000014</td>
+        <td>PLN</td>
+        <td>17,65</td>
+        <td>17,70</td>
+        <td>17,64</td>
+        <td>17,64</td>
+                <td>0,80</td>
+        <td>965</td>
+        <td>9</td>
+        <td>17,04</td>
+    </tr>
+        <tr>
+        <td class="left">PKNORLEN</td>
+        <td class="left">PLPKN0000018</td>
+        <td>PLN</td>
+        <td>94,77</td>
+        <td>95,15</td>
+        <td>93,87</td>
+        <td>94,20</td>
+                <td>-0,16</td>
+        <td>929&nbsp;762</td>
+        <td>2&nbsp;840</td>
+        <td>87&nbsp;689,34</td>
+    </tr>
+        <tr>
+        <td class="left">PKOBP</td>
+        <td class="left">PLPKO0000016</td>
+        <td>PLN</td>
+        <td>33,85</td>
+        <td>33,86</td>
+        <td>33,13</td>
+        <td>33,28</td>
+                <td>-1,10</td>
+        <td>2&nbsp;381&nbsp;561</td>
+        <td>3&nbsp;423</td>
+        <td>79&nbsp;524,70</td>
+    </tr>
+        <tr>
+        <td class="left">PKPCARGO</td>
+        <td class="left">PLPKPCR00011</td>
+        <td>PLN</td>
+        <td>57,00</td>
+        <td>58,89</td>
+        <td>56,21</td>
+        <td>58,89</td>
+                <td>2,83</td>
+        <td>18&nbsp;937</td>
+        <td>254</td>
+        <td>1&nbsp;095,94</td>
+    </tr>
+        <tr>
+        <td class="left">PLASTBOX</td>
+        <td class="left">PLPSTBX00016</td>
+        <td>PLN</td>
+        <td>2,33</td>
+        <td>2,33</td>
+        <td>2,26</td>
+        <td>2,28</td>
+                <td>-1,72</td>
+        <td>6&nbsp;092</td>
+        <td>7</td>
+        <td>13,87</td>
+    </tr>
+        <tr>
+        <td class="left">PLATYNINW</td>
+        <td class="left">PLADDRG00015</td>
+        <td>PLN</td>
+        <td>0,85</td>
+        <td>0,88</td>
+        <td>0,82</td>
+        <td>0,88</td>
+                <td>0,00</td>
+        <td>11&nbsp;387</td>
+        <td>16</td>
+        <td>9,67</td>
+    </tr>
+        <tr>
+        <td class="left">PLAYWAY</td>
+        <td class="left">PLPLAYW00015</td>
+        <td>PLN</td>
+        <td>52,57</td>
+        <td>57,25</td>
+        <td>51,95</td>
+        <td>56,00</td>
+                <td>7,57</td>
+        <td>21&nbsp;419</td>
+        <td>243</td>
+        <td>1&nbsp;164,97</td>
+    </tr>
+        <tr>
+        <td class="left">PLAZACNTR</td>
+        <td class="left">NL0011882741</td>
+        <td>PLN</td>
+        <td>10,00</td>
+        <td>10,00</td>
+        <td>9,50</td>
+        <td>9,81</td>
+                <td>-1,90</td>
+        <td>2&nbsp;782</td>
+        <td>24</td>
+        <td>26,77</td>
+    </tr>
+        <tr>
+        <td class="left">PMPG</td>
+        <td class="left">PLPEKPL00010</td>
+        <td>PLN</td>
+        <td>3,44</td>
+        <td>3,45</td>
+        <td>3,35</td>
+        <td>3,45</td>
+                <td>-3,90</td>
+        <td>7&nbsp;830</td>
+        <td>14</td>
+        <td>26,74</td>
+    </tr>
+        <tr>
+        <td class="left">POLCOLORIT</td>
+        <td class="left">PLPCLRT00029</td>
+        <td>PLN</td>
+        <td>5,56</td>
+        <td>5,56</td>
+        <td>5,55</td>
+        <td>5,55</td>
+                <td>-0,18</td>
+        <td>1&nbsp;650</td>
+        <td>7</td>
+        <td>9,17</td>
+    </tr>
+        <tr>
+        <td class="left">POLICE</td>
+        <td class="left">PLZCPLC00036</td>
+        <td>PLN</td>
+        <td>20,15</td>
+        <td>20,70</td>
+        <td>20,15</td>
+        <td>20,45</td>
+                <td>1,49</td>
+        <td>2&nbsp;894</td>
+        <td>19</td>
+        <td>59,46</td>
+    </tr>
+        <tr>
+        <td class="left">POLIMEXMS</td>
+        <td class="left">PLMSTSD00019</td>
+        <td>PLN</td>
+        <td>7,50</td>
+        <td>8,02</td>
+        <td>7,41</td>
+        <td>7,83</td>
+                <td>4,40</td>
+        <td>4&nbsp;119&nbsp;690</td>
+        <td>4&nbsp;146</td>
+        <td>32&nbsp;018,35</td>
+    </tr>
+        <tr>
+        <td class="left">POLMED</td>
+        <td class="left">PLPOLMD00011</td>
+        <td>PLN</td>
+        <td>2,81</td>
+        <td>2,81</td>
+        <td>2,81</td>
+        <td>2,81</td>
+                <td>0,00</td>
+        <td>66</td>
+        <td>13</td>
+        <td>0,19</td>
+    </tr>
+        <tr>
+        <td class="left">POLNA</td>
+        <td class="left">PLPOLNA00015</td>
+        <td>PLN</td>
+        <td>20,00</td>
+        <td>20,96</td>
+        <td>19,90</td>
+        <td>20,95</td>
+                <td>0,24</td>
+        <td>486</td>
+        <td>11</td>
+        <td>9,77</td>
+    </tr>
+        <tr>
+        <td class="left">POLNORD</td>
+        <td class="left">PLPOLND00019</td>
+        <td>PLN</td>
+        <td>8,40</td>
+        <td>8,42</td>
+        <td>8,16</td>
+        <td>8,19</td>
+                <td>-0,61</td>
+        <td>246&nbsp;104</td>
+        <td>138</td>
+        <td>2&nbsp;019,83</td>
+    </tr>
+        <tr>
+        <td class="left">POLWAX</td>
+        <td class="left">PLPOLWX00026</td>
+        <td>PLN</td>
+        <td>16,50</td>
+        <td>16,90</td>
+        <td>16,43</td>
+        <td>16,90</td>
+                <td>0,72</td>
+        <td>26&nbsp;610</td>
+        <td>146</td>
+        <td>440,04</td>
+    </tr>
+        <tr>
+        <td class="left">POZBUD</td>
+        <td class="left">PLPZBDT00013</td>
+        <td>PLN</td>
+        <td>3,20</td>
+        <td>3,20</td>
+        <td>3,19</td>
+        <td>3,19</td>
+                <td>-0,31</td>
+        <td>234</td>
+        <td>6</td>
+        <td>0,75</td>
+    </tr>
+        <tr>
+        <td class="left">PRAGMAFA</td>
+        <td class="left">PLGFPRE00040</td>
+        <td>PLN</td>
+        <td>14,00</td>
+        <td>14,00</td>
+        <td>13,99</td>
+        <td>13,99</td>
+                <td>-0,07</td>
+        <td>14</td>
+        <td>12</td>
+        <td>0,20</td>
+    </tr>
+        <tr>
+        <td class="left">PRAGMAINK</td>
+        <td class="left">PLPRGNK00017</td>
+        <td>PLN</td>
+        <td>10,22</td>
+        <td>10,22</td>
+        <td>10,13</td>
+        <td>10,15</td>
+                <td>-1,46</td>
+        <td>366</td>
+        <td>15</td>
+        <td>3,71</td>
+    </tr>
+        <tr>
+        <td class="left">PRAIRIE</td>
+        <td class="left">AU000000PDZ2</td>
+        <td>PLN</td>
+        <td>1,38</td>
+        <td>1,38</td>
+        <td>1,36</td>
+        <td>1,38</td>
+                <td>0,73</td>
+        <td>229&nbsp;446</td>
+        <td>64</td>
+        <td>315,26</td>
+    </tr>
+        <tr>
+        <td class="left">PRIMAMODA</td>
+        <td class="left">PLPRMMD00012</td>
+        <td>PLN</td>
+        <td>3,60</td>
+        <td>3,60</td>
+        <td>3,59</td>
+        <td>3,60</td>
+                <td>0,28</td>
+        <td>520</td>
+        <td>12</td>
+        <td>1,87</td>
+    </tr>
+        <tr>
+        <td class="left">PROCAD</td>
+        <td class="left">PLPRCAD00018</td>
+        <td>PLN</td>
+        <td>1,59</td>
+        <td>1,60</td>
+        <td>1,54</td>
+        <td>1,59</td>
+                <td>-0,63</td>
+        <td>3&nbsp;535</td>
+        <td>16</td>
+        <td>5,55</td>
+    </tr>
+        <tr>
+        <td class="left">PROCHEM</td>
+        <td class="left">PLPRCHM00014</td>
+        <td>PLN</td>
+        <td>18,00</td>
+        <td>18,00</td>
+        <td>17,87</td>
+        <td>18,00</td>
+                <td>-0,66</td>
+        <td>3&nbsp;240</td>
+        <td>9</td>
+        <td>58,05</td>
+    </tr>
+        <tr>
+        <td class="left">PROCHNIK</td>
+        <td class="left">PLPRCHK00018</td>
+        <td>PLN</td>
+        <td>1,10</td>
+        <td>1,12</td>
+        <td>1,09</td>
+        <td>1,10</td>
+                <td>0,00</td>
+        <td>121&nbsp;112</td>
+        <td>56</td>
+        <td>133,63</td>
+    </tr>
+        <tr>
+        <td class="left">PROJPRZEM</td>
+        <td class="left">PLPROJP00018</td>
+        <td>PLN</td>
+        <td>9,20</td>
+        <td>9,20</td>
+        <td>9,20</td>
+        <td>9,20</td>
+                <td>-0,65</td>
+        <td>600</td>
+        <td>3</td>
+        <td>5,52</td>
+    </tr>
+        <tr>
+        <td class="left">PROTEKTOR</td>
+        <td class="left">PLLZPSK00019</td>
+        <td>PLN</td>
+        <td>3,15</td>
+        <td>3,17</td>
+        <td>3,14</td>
+        <td>3,14</td>
+                <td>-0,63</td>
+        <td>11&nbsp;129</td>
+        <td>11</td>
+        <td>35,24</td>
+    </tr>
+        <tr>
+        <td class="left">PROVIDENT</td>
+        <td class="left">GB00B1YKG049</td>
+        <td>PLN</td>
+        <td>9,25</td>
+        <td>9,25</td>
+        <td>9,25</td>
+        <td>9,25</td>
+                <td>0,00</td>
+        <td>1</td>
+        <td>1</td>
+        <td>0,01</td>
+    </tr>
+        <tr>
+        <td class="left">PULAWY</td>
+        <td class="left">PLZAPUL00057</td>
+        <td>PLN</td>
+        <td>191,85</td>
+        <td>192,00</td>
+        <td>183,05</td>
+        <td>188,00</td>
+                <td>-2,01</td>
+        <td>425</td>
+        <td>22</td>
+        <td>80,85</td>
+    </tr>
+        <tr>
+        <td class="left">PWRMEDIA</td>
+        <td class="left">PLPWRMD00011</td>
+        <td>PLN</td>
+        <td>2,49</td>
+        <td>2,51</td>
+        <td>2,42</td>
+        <td>2,46</td>
+                <td>-0,40</td>
+        <td>2&nbsp;501</td>
+        <td>9</td>
+        <td>6,16</td>
+    </tr>
+        <tr>
+        <td class="left">PZU</td>
+        <td class="left">PLPZU0000011</td>
+        <td>PLN</td>
+        <td>36,95</td>
+        <td>37,10</td>
+        <td>36,07</td>
+        <td>36,07</td>
+                <td>-2,33</td>
+        <td>2&nbsp;549&nbsp;628</td>
+        <td>4&nbsp;305</td>
+        <td>92&nbsp;637,27</td>
+    </tr>
+        <tr>
+        <td class="left">QUANTUM</td>
+        <td class="left">PLQNTUM00018</td>
+        <td>PLN</td>
+        <td>16,50</td>
+        <td>16,50</td>
+        <td>16,50</td>
+        <td>16,50</td>
+                <td>3,13</td>
+        <td>95</td>
+        <td>3</td>
+        <td>1,57</td>
+    </tr>
+        <tr>
+        <td class="left">QUERCUS</td>
+        <td class="left">PLQRCUS00012</td>
+        <td>PLN</td>
+        <td>6,50</td>
+        <td>6,53</td>
+        <td>6,49</td>
+        <td>6,49</td>
+                <td>-0,15</td>
+        <td>61&nbsp;744</td>
+        <td>31</td>
+        <td>401,07</td>
+    </tr>
+        <tr>
+        <td class="left">QUMAK</td>
+        <td class="left">PLQMKSK00017</td>
+        <td>PLN</td>
+        <td>5,45</td>
+        <td>5,56</td>
+        <td>5,41</td>
+        <td>5,43</td>
+                <td>0,56</td>
+        <td>21&nbsp;341</td>
+        <td>40</td>
+        <td>116,03</td>
+    </tr>
+        <tr>
+        <td class="left">RADPOL</td>
+        <td class="left">PLRDPOL00010</td>
+        <td>PLN</td>
+        <td>2,68</td>
+        <td>2,80</td>
+        <td>2,64</td>
+        <td>2,70</td>
+                <td>0,75</td>
+        <td>145&nbsp;915</td>
+        <td>87</td>
+        <td>399,21</td>
+    </tr>
+        <tr>
+        <td class="left">RAFAKO</td>
+        <td class="left">PLRAFAK00018</td>
+        <td>PLN</td>
+        <td>7,31</td>
+        <td>7,49</td>
+        <td>7,27</td>
+        <td>7,44</td>
+                <td>2,06</td>
+        <td>187&nbsp;264</td>
+        <td>246</td>
+        <td>1&nbsp;381,97</td>
+    </tr>
+        <tr>
+        <td class="left">RAFAMET</td>
+        <td class="left">PLRFMET00016</td>
+        <td>PLN</td>
+        <td>17,00</td>
+        <td>17,50</td>
+        <td>17,00</td>
+        <td>17,50</td>
+                <td>3,61</td>
+        <td>536</td>
+        <td>5</td>
+        <td>9,19</td>
+    </tr>
+        <tr>
+        <td class="left">RAINBOW</td>
+        <td class="left">PLRNBWT00031</td>
+        <td>PLN</td>
+        <td>34,94</td>
+        <td>34,95</td>
+        <td>34,11</td>
+        <td>34,90</td>
+                <td>2,65</td>
+        <td>602</td>
+        <td>21</td>
+        <td>20,98</td>
+    </tr>
+        <tr>
+        <td class="left">RANKPROGR</td>
+        <td class="left">PLRNKPR00014</td>
+        <td>PLN</td>
+        <td>1,79</td>
+        <td>1,82</td>
+        <td>1,79</td>
+        <td>1,82</td>
+                <td>1,11</td>
+        <td>29&nbsp;820</td>
+        <td>27</td>
+        <td>53,65</td>
+    </tr>
+        <tr>
+        <td class="left">RAWLPLUG</td>
+        <td class="left">PLKLNR000017</td>
+        <td>PLN</td>
+        <td>11,70</td>
+        <td>11,70</td>
+        <td>11,55</td>
+        <td>11,55</td>
+                <td>0,00</td>
+        <td>602</td>
+        <td>9</td>
+        <td>7,01</td>
+    </tr>
+        <tr>
+        <td class="left">REDAN</td>
+        <td class="left">PLREDAN00019</td>
+        <td>PLN</td>
+        <td>2,14</td>
+        <td>2,14</td>
+        <td>2,06</td>
+        <td>2,12</td>
+                <td>-0,47</td>
+        <td>17&nbsp;669</td>
+        <td>23</td>
+        <td>36,75</td>
+    </tr>
+        <tr>
+        <td class="left">REDWOOD</td>
+        <td class="left">PLCMPLX00014</td>
+        <td>PLN</td>
+        <td>1,07</td>
+        <td>1,07</td>
+        <td>1,01</td>
+        <td>1,07</td>
+                <td>0,00</td>
+        <td>6&nbsp;692</td>
+        <td>21</td>
+        <td>6,78</td>
+    </tr>
+        <tr>
+        <td class="left">REGNON</td>
+        <td class="left">PLPRNTC00017</td>
+        <td>PLN</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,39</td>
+                <td>0,00</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0,00</td>
+    </tr>
+        <tr>
+        <td class="left">REINHOLD</td>
+        <td class="left">SE0001856519</td>
+        <td>PLN</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,23</td>
+                <td>0,00</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0,00</td>
+    </tr>
+        <tr>
+        <td class="left">RELPOL</td>
+        <td class="left">PLRELPL00014</td>
+        <td>PLN</td>
+        <td>9,00</td>
+        <td>9,50</td>
+        <td>8,74</td>
+        <td>9,50</td>
+                <td>-3,85</td>
+        <td>34&nbsp;523</td>
+        <td>115</td>
+        <td>313,62</td>
+    </tr>
+        <tr>
+        <td class="left">REMAK</td>
+        <td class="left">PLREMAK00016</td>
+        <td>PLN</td>
+        <td>17,99</td>
+        <td>17,99</td>
+        <td>17,94</td>
+        <td>17,94</td>
+                <td>-0,28</td>
+        <td>2</td>
+        <td>2</td>
+        <td>0,04</td>
+    </tr>
+        <tr>
+        <td class="left">RESBUD</td>
+        <td class="left">PLRESBD00016</td>
+        <td>PLN</td>
+        <td>0,87</td>
+        <td>0,88</td>
+        <td>0,86</td>
+        <td>0,88</td>
+                <td>0,00</td>
+        <td>21&nbsp;366</td>
+        <td>19</td>
+        <td>18,52</td>
+    </tr>
+        <tr>
+        <td class="left">ROBYG</td>
+        <td class="left">PLROBYG00016</td>
+        <td>PLN</td>
+        <td>3,13</td>
+        <td>3,18</td>
+        <td>3,04</td>
+        <td>3,07</td>
+                <td>-1,29</td>
+        <td>1&nbsp;080&nbsp;159</td>
+        <td>413</td>
+        <td>3&nbsp;325,72</td>
+    </tr>
+        <tr>
+        <td class="left">RONSON</td>
+        <td class="left">NL0006106007</td>
+        <td>PLN</td>
+        <td>1,87</td>
+        <td>1,88</td>
+        <td>1,83</td>
+        <td>1,87</td>
+                <td>0,54</td>
+        <td>39&nbsp;839</td>
+        <td>35</td>
+        <td>74,02</td>
+    </tr>
+        <tr>
+        <td class="left">ROPCZYCE</td>
+        <td class="left">PLROPCE00017</td>
+        <td>PLN</td>
+        <td>19,98</td>
+        <td>20,00</td>
+        <td>19,73</td>
+        <td>19,85</td>
+                <td>0,51</td>
+        <td>2&nbsp;531</td>
+        <td>25</td>
+        <td>50,60</td>
+    </tr>
+        <tr>
+        <td class="left">RUBICON</td>
+        <td class="left">PLNFI0500012</td>
+        <td>PLN</td>
+        <td>1,27</td>
+        <td>1,27</td>
+        <td>1,22</td>
+        <td>1,22</td>
+                <td>0,00</td>
+        <td>57</td>
+        <td>14</td>
+        <td>0,07</td>
+    </tr>
+        <tr>
+        <td class="left">SADOVAYA</td>
+        <td class="left">LU0564351582</td>
+        <td>PLN</td>
+        <td>0,46</td>
+        <td>0,46</td>
+        <td>0,45</td>
+        <td>0,45</td>
+                <td>-4,26</td>
+        <td>24&nbsp;065</td>
+        <td>8</td>
+        <td>10,93</td>
+    </tr>
+        <tr>
+        <td class="left">SANOK</td>
+        <td class="left">PLSTLSK00016</td>
+        <td>PLN</td>
+        <td>65,90</td>
+        <td>65,90</td>
+        <td>64,50</td>
+        <td>64,99</td>
+                <td>-1,52</td>
+        <td>12&nbsp;747</td>
+        <td>123</td>
+        <td>828,85</td>
+    </tr>
+        <tr>
+        <td class="left">SANTANDER</td>
+        <td class="left">ES0113900J37</td>
+        <td>PLN</td>
+        <td>22,20</td>
+        <td>22,20</td>
+        <td>22,20</td>
+        <td>22,20</td>
+                <td>1,83</td>
+        <td>3</td>
+        <td>1</td>
+        <td>0,07</td>
+    </tr>
+        <tr>
+        <td class="left">SANWIL</td>
+        <td class="left">PLSANWL00012</td>
+        <td>PLN</td>
+        <td>0,64</td>
+        <td>0,65</td>
+        <td>0,64</td>
+        <td>0,65</td>
+                <td>1,56</td>
+        <td>2&nbsp;000</td>
+        <td>4</td>
+        <td>1,29</td>
+    </tr>
+        <tr>
+        <td class="left">SARE</td>
+        <td class="left">PLSARE000013</td>
+        <td>PLN</td>
+        <td>19,26</td>
+        <td>19,26</td>
+        <td>19,10</td>
+        <td>19,10</td>
+                <td>-0,78</td>
+        <td>116</td>
+        <td>4</td>
+        <td>2,22</td>
+    </tr>
+        <tr>
+        <td class="left">SCOPAK</td>
+        <td class="left">PLSCOPK00012</td>
+        <td>PLN</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>1,38</td>
+                <td>0,00</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0,00</td>
+    </tr>
+        <tr>
+        <td class="left">SECOGROUP</td>
+        <td class="left">PLWRWCK00013</td>
+        <td>PLN</td>
+        <td>17,85</td>
+        <td>18,50</td>
+        <td>17,85</td>
+        <td>18,50</td>
+                <td>3,93</td>
+        <td>760</td>
+        <td>4</td>
+        <td>13,89</td>
+    </tr>
+        <tr>
+        <td class="left">SEKO</td>
+        <td class="left">PLSEKO000014</td>
+        <td>PLN</td>
+        <td>6,96</td>
+        <td>6,96</td>
+        <td>6,96</td>
+        <td>6,96</td>
+                <td>-2,52</td>
+        <td>25</td>
+        <td>1</td>
+        <td>0,17</td>
+    </tr>
+        <tr>
+        <td class="left">SELENAFM</td>
+        <td class="left">PLSELNA00010</td>
+        <td>PLN</td>
+        <td>21,26</td>
+        <td>21,76</td>
+        <td>21,26</td>
+        <td>21,76</td>
+                <td>-0,41</td>
+        <td>253</td>
+        <td>2</td>
+        <td>5,38</td>
+    </tr>
+        <tr>
+        <td class="left">SELVITA</td>
+        <td class="left">PLSELVT00013</td>
+        <td>PLN</td>
+        <td>33,80</td>
+        <td>34,00</td>
+        <td>33,25</td>
+        <td>33,95</td>
+                <td>0,00</td>
+        <td>798</td>
+        <td>10</td>
+        <td>26,72</td>
+    </tr>
+        <tr>
+        <td class="left">SERINUS</td>
+        <td class="left">CA81752K1057</td>
+        <td>PLN</td>
+        <td>1,59</td>
+        <td>1,59</td>
+        <td>1,48</td>
+        <td>1,53</td>
+                <td>-2,55</td>
+        <td>355&nbsp;899</td>
+        <td>251</td>
+        <td>541,64</td>
+    </tr>
+        <tr>
+        <td class="left">SETANTA</td>
+        <td class="left">PLSNTFG00017</td>
+        <td>PLN</td>
+        <td>14,98</td>
+        <td>14,99</td>
+        <td>13,90</td>
+        <td>14,99</td>
+                <td>0,20</td>
+        <td>2&nbsp;068</td>
+        <td>23</td>
+        <td>29,76</td>
+    </tr>
+        <tr>
+        <td class="left">SFINKS</td>
+        <td class="left">PLSFNKS00011</td>
+        <td>PLN</td>
+        <td>2,71</td>
+        <td>2,74</td>
+        <td>2,70</td>
+        <td>2,74</td>
+                <td>-0,36</td>
+        <td>11&nbsp;370</td>
+        <td>17</td>
+        <td>30,77</td>
+    </tr>
+        <tr>
+        <td class="left">SILVANO</td>
+        <td class="left">EE3100001751</td>
+        <td>PLN</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>12,39</td>
+                <td>0,00</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0,00</td>
+    </tr>
+        <tr>
+        <td class="left">SIMPLE</td>
+        <td class="left">PLSIMPL00011</td>
+        <td>PLN</td>
+        <td>7,19</td>
+        <td>7,19</td>
+        <td>7,17</td>
+        <td>7,17</td>
+                <td>0,99</td>
+        <td>750</td>
+        <td>4</td>
+        <td>5,39</td>
+    </tr>
+        <tr>
+        <td class="left">SKARBIEC</td>
+        <td class="left">PLSKRBH00014</td>
+        <td>PLN</td>
+        <td>30,21</td>
+        <td>30,21</td>
+        <td>30,00</td>
+        <td>30,05</td>
+                <td>-0,53</td>
+        <td>1&nbsp;943</td>
+        <td>26</td>
+        <td>58,49</td>
+    </tr>
+        <tr>
+        <td class="left">SKOTAN</td>
+        <td class="left">PLSKTAN00010</td>
+        <td>PLN</td>
+        <td>0,63</td>
+        <td>0,64</td>
+        <td>0,63</td>
+        <td>0,64</td>
+                <td>0,00</td>
+        <td>213&nbsp;739</td>
+        <td>38</td>
+        <td>134,78</td>
+    </tr>
+        <tr>
+        <td class="left">SKYLINE</td>
+        <td class="left">PLSKLNW00011</td>
+        <td>PLN</td>
+        <td>0,90</td>
+        <td>0,90</td>
+        <td>0,86</td>
+        <td>0,90</td>
+                <td>0,00</td>
+        <td>13&nbsp;405</td>
+        <td>7</td>
+        <td>11,59</td>
+    </tr>
+        <tr>
+        <td class="left">SNIEZKA</td>
+        <td class="left">PLSNZKA00033</td>
+        <td>PLN</td>
+        <td>63,49</td>
+        <td>63,86</td>
+        <td>63,10</td>
+        <td>63,60</td>
+                <td>2,25</td>
+        <td>204</td>
+        <td>6</td>
+        <td>12,95</td>
+    </tr>
+        <tr>
+        <td class="left">SOHODEV</td>
+        <td class="left">PLNFI0400015</td>
+        <td>PLN</td>
+        <td>1,66</td>
+        <td>1,73</td>
+        <td>1,65</td>
+        <td>1,68</td>
+                <td>0,60</td>
+        <td>41&nbsp;268</td>
+        <td>34</td>
+        <td>68,72</td>
+    </tr>
+        <tr>
+        <td class="left">SOLAR</td>
+        <td class="left">PLSLRCP00021</td>
+        <td>PLN</td>
+        <td>1,19</td>
+        <td>1,19</td>
+        <td>1,18</td>
+        <td>1,18</td>
+                <td>0,00</td>
+        <td>22&nbsp;554</td>
+        <td>16</td>
+        <td>26,66</td>
+    </tr>
+        <tr>
+        <td class="left">SONEL</td>
+        <td class="left">PLSONEL00011</td>
+        <td>PLN</td>
+        <td>10,97</td>
+        <td>10,97</td>
+        <td>10,96</td>
+        <td>10,97</td>
+                <td>0,18</td>
+        <td>166</td>
+        <td>18</td>
+        <td>1,82</td>
+    </tr>
+        <tr>
+        <td class="left">SOPHARMA</td>
+        <td class="left">BG11SOSOBT18</td>
+        <td>PLN</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>7,95</td>
+                <td>0,00</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0,00</td>
+    </tr>
+        <tr>
+        <td class="left">STALEXP</td>
+        <td class="left">PLSTLEX00019</td>
+        <td>PLN</td>
+        <td>4,38</td>
+        <td>4,40</td>
+        <td>4,36</td>
+        <td>4,39</td>
+                <td>0,23</td>
+        <td>17&nbsp;818</td>
+        <td>34</td>
+        <td>78,06</td>
+    </tr>
+        <tr>
+        <td class="left">STALPROD</td>
+        <td class="left">PLSTLPD00017</td>
+        <td>PLN</td>
+        <td>621,90</td>
+        <td>621,95</td>
+        <td>612,00</td>
+        <td>620,00</td>
+                <td>-0,31</td>
+        <td>575</td>
+        <td>56</td>
+        <td>354,43</td>
+    </tr>
+        <tr>
+        <td class="left">STALPROFI</td>
+        <td class="left">PLSTLPF00012</td>
+        <td>PLN</td>
+        <td>14,30</td>
+        <td>14,48</td>
+        <td>14,30</td>
+        <td>14,48</td>
+                <td>1,26</td>
+        <td>51</td>
+        <td>4</td>
+        <td>0,74</td>
+    </tr>
+        <tr>
+        <td class="left">STAPORKOW</td>
+        <td class="left">PLSTPRK00019</td>
+        <td>PLN</td>
+        <td>4,50</td>
+        <td>4,69</td>
+        <td>4,50</td>
+        <td>4,69</td>
+                <td>3,76</td>
+        <td>16&nbsp;606</td>
+        <td>63</td>
+        <td>75,97</td>
+    </tr>
+        <tr>
+        <td class="left">STARHEDGE</td>
+        <td class="left">PLHRDEX00021</td>
+        <td>PLN</td>
+        <td>0,57</td>
+        <td>0,58</td>
+        <td>0,55</td>
+        <td>0,58</td>
+                <td>1,75</td>
+        <td>21&nbsp;365</td>
+        <td>14</td>
+        <td>12,04</td>
+    </tr>
+        <tr>
+        <td class="left">STELMET</td>
+        <td class="left">PLSTLMT00010</td>
+        <td>PLN</td>
+        <td>30,41</td>
+        <td>30,41</td>
+        <td>30,01</td>
+        <td>30,20</td>
+                <td>-0,69</td>
+        <td>16&nbsp;946</td>
+        <td>5</td>
+        <td>511,71</td>
+    </tr>
+        <tr>
+        <td class="left">SUNEX</td>
+        <td class="left">PLSUNEX00013</td>
+        <td>PLN</td>
+        <td>3,67</td>
+        <td>3,67</td>
+        <td>3,67</td>
+        <td>3,67</td>
+                <td>1,10</td>
+        <td>20</td>
+        <td>10</td>
+        <td>0,07</td>
+    </tr>
+        <tr>
+        <td class="left">SUWARY</td>
+        <td class="left">PLSUWAR00014</td>
+        <td>PLN</td>
+        <td>8,92</td>
+        <td>8,92</td>
+        <td>8,90</td>
+        <td>8,90</td>
+                <td>0,56</td>
+        <td>2</td>
+        <td>2</td>
+        <td>0,02</td>
+    </tr>
+        <tr>
+        <td class="left">SWISSMED</td>
+        <td class="left">PLSWMED00013</td>
+        <td>PLN</td>
+        <td>1,31</td>
+        <td>1,31</td>
+        <td>1,26</td>
+        <td>1,27</td>
+                <td>-3,05</td>
+        <td>15&nbsp;016</td>
+        <td>16</td>
+        <td>19,12</td>
+    </tr>
+        <tr>
+        <td class="left">SYGNITY</td>
+        <td class="left">PLCMPLD00016</td>
+        <td>PLN</td>
+        <td>7,19</td>
+        <td>7,28</td>
+        <td>7,03</td>
+        <td>7,28</td>
+                <td>2,54</td>
+        <td>51&nbsp;216</td>
+        <td>130</td>
+        <td>367,18</td>
+    </tr>
+        <tr>
+        <td class="left">SYNEKTIK</td>
+        <td class="left">PLSNKTK00019</td>
+        <td>PLN</td>
+        <td>17,14</td>
+        <td>17,14</td>
+        <td>17,00</td>
+        <td>17,00</td>
+                <td>0,00</td>
+        <td>402</td>
+        <td>9</td>
+        <td>6,86</td>
+    </tr>
+        <tr>
+        <td class="left">SYNTHOS</td>
+        <td class="left">PLDWORY00019</td>
+        <td>PLN</td>
+        <td>5,88</td>
+        <td>6,00</td>
+        <td>5,85</td>
+        <td>5,88</td>
+                <td>0,17</td>
+        <td>2&nbsp;769&nbsp;108</td>
+        <td>1&nbsp;017</td>
+        <td>16&nbsp;370,71</td>
+    </tr>
+        <tr>
+        <td class="left">TALANX</td>
+        <td class="left">DE000TLX1005</td>
+        <td>PLN</td>
+        <td>126,00</td>
+        <td>126,00</td>
+        <td>120,00</td>
+        <td>120,00</td>
+                <td>-4,76</td>
+        <td>74</td>
+        <td>5</td>
+        <td>8,93</td>
+    </tr>
+        <tr>
+        <td class="left">TALEX</td>
+        <td class="left">PLTALEX00017</td>
+        <td>PLN</td>
+        <td>22,40</td>
+        <td>22,40</td>
+        <td>22,36</td>
+        <td>22,36</td>
+                <td>0,04</td>
+        <td>2</td>
+        <td>2</td>
+        <td>0,04</td>
+    </tr>
+        <tr>
+        <td class="left">TARCZYNSKI</td>
+        <td class="left">PLTRCZN00016</td>
+        <td>PLN</td>
+        <td>12,31</td>
+        <td>12,31</td>
+        <td>12,15</td>
+        <td>12,19</td>
+                <td>0,74</td>
+        <td>179</td>
+        <td>4</td>
+        <td>2,18</td>
+    </tr>
+        <tr>
+        <td class="left">TATRY</td>
+        <td class="left">SK1120010287</td>
+        <td>PLN</td>
+        <td>117,95</td>
+        <td>117,95</td>
+        <td>114,90</td>
+        <td>114,90</td>
+                <td>-0,09</td>
+        <td>117</td>
+        <td>5</td>
+        <td>13,49</td>
+    </tr>
+        <tr>
+        <td class="left">TAURONPE</td>
+        <td class="left">PLTAURN00011</td>
+        <td>PLN</td>
+        <td>2,97</td>
+        <td>3,00</td>
+        <td>2,93</td>
+        <td>3,00</td>
+                <td>1,01</td>
+        <td>5&nbsp;033&nbsp;765</td>
+        <td>1&nbsp;093</td>
+        <td>15&nbsp;006,68</td>
+    </tr>
+        <tr>
+        <td class="left">TERMOREX</td>
+        <td class="left">PLTRMRX00011</td>
+        <td>PLN</td>
+        <td>2,30</td>
+        <td>2,30</td>
+        <td>2,30</td>
+        <td>2,30</td>
+                <td>0,00</td>
+        <td>10</td>
+        <td>5</td>
+        <td>0,02</td>
+    </tr>
+        <tr>
+        <td class="left">TESGAS</td>
+        <td class="left">PLTSGS000019</td>
+        <td>PLN</td>
+        <td>3,08</td>
+        <td>3,10</td>
+        <td>3,08</td>
+        <td>3,10</td>
+                <td>2,99</td>
+        <td>2&nbsp;501</td>
+        <td>83</td>
+        <td>7,70</td>
+    </tr>
+        <tr>
+        <td class="left">TIM</td>
+        <td class="left">PLTIM0000016</td>
+        <td>PLN</td>
+        <td>13,50</td>
+        <td>13,55</td>
+        <td>13,48</td>
+        <td>13,55</td>
+                <td>1,12</td>
+        <td>5&nbsp;021</td>
+        <td>9</td>
+        <td>68,03</td>
+    </tr>
+        <tr>
+        <td class="left">TOPMEDICA</td>
+        <td class="left">PLPTIW000014</td>
+        <td>PLN</td>
+        <td>0,11</td>
+        <td>0,11</td>
+        <td>0,10</td>
+        <td>0,10</td>
+                <td>-9,09</td>
+        <td>54&nbsp;685</td>
+        <td>4</td>
+        <td>5,52</td>
+    </tr>
+        <tr>
+        <td class="left">TORPOL</td>
+        <td class="left">PLTORPL00016</td>
+        <td>PLN</td>
+        <td>13,50</td>
+        <td>13,79</td>
+        <td>13,35</td>
+        <td>13,79</td>
+                <td>1,77</td>
+        <td>28&nbsp;284</td>
+        <td>81</td>
+        <td>382,08</td>
+    </tr>
+        <tr>
+        <td class="left">TOYA</td>
+        <td class="left">PLTOYA000011</td>
+        <td>PLN</td>
+        <td>6,15</td>
+        <td>6,15</td>
+        <td>6,15</td>
+        <td>6,15</td>
+                <td>1,49</td>
+        <td>11</td>
+        <td>11</td>
+        <td>0,07</td>
+    </tr>
+        <tr>
+        <td class="left">TRAKCJA</td>
+        <td class="left">PLTRKPL00014</td>
+        <td>PLN</td>
+        <td>17,65</td>
+        <td>17,83</td>
+        <td>16,75</td>
+        <td>16,85</td>
+                <td>-4,53</td>
+        <td>237&nbsp;628</td>
+        <td>615</td>
+        <td>4&nbsp;099,74</td>
+    </tr>
+        <tr>
+        <td class="left">TRANSPOL</td>
+        <td class="left">PLTRNSP00013</td>
+        <td>PLN</td>
+        <td>7,10</td>
+        <td>7,14</td>
+        <td>6,90</td>
+        <td>7,10</td>
+                <td>-0,56</td>
+        <td>14&nbsp;228</td>
+        <td>33</td>
+        <td>99,26</td>
+    </tr>
+        <tr>
+        <td class="left">TRITON</td>
+        <td class="left">PLASMOT00030</td>
+        <td>PLN</td>
+        <td>3,61</td>
+        <td>3,64</td>
+        <td>3,47</td>
+        <td>3,64</td>
+                <td>0,28</td>
+        <td>9&nbsp;557</td>
+        <td>17</td>
+        <td>33,75</td>
+    </tr>
+        <tr>
+        <td class="left">TXM</td>
+        <td class="left">PLTXM0000015</td>
+        <td>PLN</td>
+        <td>5,69</td>
+        <td>5,69</td>
+        <td>5,69</td>
+        <td>5,69</td>
+                <td>-0,18</td>
+        <td>2</td>
+        <td>1</td>
+        <td>0,01</td>
+    </tr>
+        <tr>
+        <td class="left">ULMA</td>
+        <td class="left">PLBAUMA00017</td>
+        <td>PLN</td>
+        <td>70,00</td>
+        <td>70,00</td>
+        <td>66,67</td>
+        <td>70,00</td>
+                <td>2,94</td>
+        <td>87</td>
+        <td>3</td>
+        <td>5,81</td>
+    </tr>
+        <tr>
+        <td class="left">UNIBEP</td>
+        <td class="left">PLUNBEP00015</td>
+        <td>PLN</td>
+        <td>12,62</td>
+        <td>12,62</td>
+        <td>12,50</td>
+        <td>12,59</td>
+                <td>-0,24</td>
+        <td>2&nbsp;816</td>
+        <td>35</td>
+        <td>35,37</td>
+    </tr>
+        <tr>
+        <td class="left">UNICREDIT</td>
+        <td class="left">IT0005239360</td>
+        <td>PLN</td>
+        <td>59,79</td>
+        <td>59,89</td>
+        <td>56,00</td>
+        <td>57,50</td>
+                <td>2,86</td>
+        <td>2&nbsp;599</td>
+        <td>25</td>
+        <td>149,93</td>
+    </tr>
+        <tr>
+        <td class="left">UNIMA</td>
+        <td class="left">PLUNMST00014</td>
+        <td>PLN</td>
+        <td>3,75</td>
+        <td>3,75</td>
+        <td>3,70</td>
+        <td>3,70</td>
+                <td>-1,33</td>
+        <td>1&nbsp;355</td>
+        <td>13</td>
+        <td>5,01</td>
+    </tr>
+        <tr>
+        <td class="left">UNIWHEELS</td>
+        <td class="left">DE000A13STW4</td>
+        <td>PLN</td>
+        <td>246,05</td>
+        <td>248,00</td>
+        <td>244,95</td>
+        <td>245,70</td>
+                <td>-0,12</td>
+        <td>57&nbsp;021</td>
+        <td>76</td>
+        <td>13&nbsp;978,48</td>
+    </tr>
+        <tr>
+        <td class="left">URSUS</td>
+        <td class="left">PLPMWRM00012</td>
+        <td>PLN</td>
+        <td>2,52</td>
+        <td>2,52</td>
+        <td>2,47</td>
+        <td>2,48</td>
+                <td>-1,20</td>
+        <td>65&nbsp;245</td>
+        <td>74</td>
+        <td>163,03</td>
+    </tr>
+        <tr>
+        <td class="left">VANTAGE</td>
+        <td class="left">PLVTGDL00010</td>
+        <td>PLN</td>
+        <td>3,56</td>
+        <td>3,63</td>
+        <td>3,49</td>
+        <td>3,55</td>
+                <td>0,00</td>
+        <td>72&nbsp;666</td>
+        <td>34</td>
+        <td>259,96</td>
+    </tr>
+        <tr>
+        <td class="left">VIGOSYS</td>
+        <td class="left">PLVIGOS00015</td>
+        <td>PLN</td>
+        <td>284,00</td>
+        <td>286,00</td>
+        <td>282,00</td>
+        <td>286,00</td>
+                <td>0,70</td>
+        <td>134</td>
+        <td>9</td>
+        <td>37,84</td>
+    </tr>
+        <tr>
+        <td class="left">VINDEXUS</td>
+        <td class="left">PLVNDEX00013</td>
+        <td>PLN</td>
+        <td>7,69</td>
+        <td>7,70</td>
+        <td>7,67</td>
+        <td>7,67</td>
+                <td>0,00</td>
+        <td>8&nbsp;787</td>
+        <td>24</td>
+        <td>67,48</td>
+    </tr>
+        <tr>
+        <td class="left">VISTAL</td>
+        <td class="left">PLVTLGD00010</td>
+        <td>PLN</td>
+        <td>8,73</td>
+        <td>8,73</td>
+        <td>8,50</td>
+        <td>8,62</td>
+                <td>-1,37</td>
+        <td>853</td>
+        <td>13</td>
+        <td>7,31</td>
+    </tr>
+        <tr>
+        <td class="left">VISTULA</td>
+        <td class="left">PLVSTLA00011</td>
+        <td>PLN</td>
+        <td>3,24</td>
+        <td>3,27</td>
+        <td>3,24</td>
+        <td>3,25</td>
+                <td>0,31</td>
+        <td>378&nbsp;387</td>
+        <td>51</td>
+        <td>1&nbsp;229,65</td>
+    </tr>
+        <tr>
+        <td class="left">VIVID</td>
+        <td class="left">PLVVDGM00014</td>
+        <td>PLN</td>
+        <td>4,96</td>
+        <td>5,05</td>
+        <td>4,92</td>
+        <td>4,93</td>
+                <td>-0,60</td>
+        <td>28&nbsp;143</td>
+        <td>67</td>
+        <td>139,75</td>
+    </tr>
+        <tr>
+        <td class="left">VOTUM</td>
+        <td class="left">PLVOTUM00016</td>
+        <td>PLN</td>
+        <td>10,70</td>
+        <td>11,00</td>
+        <td>10,70</td>
+        <td>10,95</td>
+                <td>1,39</td>
+        <td>240</td>
+        <td>5</td>
+        <td>2,60</td>
+    </tr>
+        <tr>
+        <td class="left">VOXEL</td>
+        <td class="left">PLVOXEL00014</td>
+        <td>PLN</td>
+        <td>18,64</td>
+        <td>18,64</td>
+        <td>18,41</td>
+        <td>18,50</td>
+                <td>0,00</td>
+        <td>322</td>
+        <td>12</td>
+        <td>5,95</td>
+    </tr>
+        <tr>
+        <td class="left">WADEX</td>
+        <td class="left">PLWADEX00018</td>
+        <td>PLN</td>
+        <td>5,99</td>
+        <td>6,05</td>
+        <td>5,99</td>
+        <td>6,05</td>
+                <td>5,58</td>
+        <td>165</td>
+        <td>9</td>
+        <td>0,99</td>
+    </tr>
+        <tr>
+        <td class="left">WARIMPEX</td>
+        <td class="left">AT0000827209</td>
+        <td>PLN</td>
+        <td>4,75</td>
+        <td>4,75</td>
+        <td>4,28</td>
+        <td>4,72</td>
+                <td>-1,05</td>
+        <td>55&nbsp;248</td>
+        <td>61</td>
+        <td>248,10</td>
+    </tr>
+        <tr>
+        <td class="left">WASKO</td>
+        <td class="left">PLHOGA000041</td>
+        <td>PLN</td>
+        <td>1,68</td>
+        <td>1,68</td>
+        <td>1,56</td>
+        <td>1,60</td>
+                <td>-4,76</td>
+        <td>75&nbsp;869</td>
+        <td>105</td>
+        <td>120,95</td>
+    </tr>
+        <tr>
+        <td class="left">WAWEL</td>
+        <td class="left">PLWAWEL00013</td>
+        <td>PLN</td>
+        <td>1&nbsp;170,00</td>
+        <td>1&nbsp;175,00</td>
+        <td>1&nbsp;157,50</td>
+        <td>1&nbsp;175,00</td>
+                <td>0,00</td>
+        <td>1&nbsp;337</td>
+        <td>29</td>
+        <td>1&nbsp;560,59</td>
+    </tr>
+        <tr>
+        <td class="left">WDX</td>
+        <td class="left">PLWNDLX00024</td>
+        <td>PLN</td>
+        <td>7,97</td>
+        <td>7,98</td>
+        <td>7,97</td>
+        <td>7,97</td>
+                <td>-0,13</td>
+        <td>1&nbsp;718</td>
+        <td>9</td>
+        <td>13,69</td>
+    </tr>
+        <tr>
+        <td class="left">WESTAISIC</td>
+        <td class="left">LU0627170920</td>
+        <td>PLN</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,08</td>
+                <td>0,00</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0,00</td>
+    </tr>
+        <tr>
+        <td class="left">WIELTON</td>
+        <td class="left">PLWELTN00012</td>
+        <td>PLN</td>
+        <td>15,30</td>
+        <td>16,00</td>
+        <td>14,94</td>
+        <td>16,00</td>
+                <td>4,58</td>
+        <td>72&nbsp;977</td>
+        <td>269</td>
+        <td>1&nbsp;125,05</td>
+    </tr>
+        <tr>
+        <td class="left">WIKANA</td>
+        <td class="left">PLELPO000016</td>
+        <td>PLN</td>
+        <td>1,75</td>
+        <td>1,81</td>
+        <td>1,70</td>
+        <td>1,81</td>
+                <td>-0,55</td>
+        <td>6&nbsp;049</td>
+        <td>7</td>
+        <td>10,47</td>
+    </tr>
+        <tr>
+        <td class="left">WILBO</td>
+        <td class="left">PLWILBO00019</td>
+        <td>PLN</td>
+        <td>0,69</td>
+        <td>0,69</td>
+        <td>0,68</td>
+        <td>0,69</td>
+                <td>0,00</td>
+        <td>5&nbsp;496</td>
+        <td>8</td>
+        <td>3,75</td>
+    </tr>
+        <tr>
+        <td class="left">WINVEST</td>
+        <td class="left">PLARIEL00046</td>
+        <td>PLN</td>
+        <td>2,00</td>
+        <td>2,15</td>
+        <td>2,00</td>
+        <td>2,15</td>
+                <td>0,00</td>
+        <td>261</td>
+        <td>4</td>
+        <td>0,52</td>
+    </tr>
+        <tr>
+        <td class="left">WIRTUALNA</td>
+        <td class="left">PLWRTPL00027</td>
+        <td>PLN</td>
+        <td>57,00</td>
+        <td>57,00</td>
+        <td>55,91</td>
+        <td>56,50</td>
+                <td>-0,04</td>
+        <td>5&nbsp;170</td>
+        <td>41</td>
+        <td>290,35</td>
+    </tr>
+        <tr>
+        <td class="left">WISTIL</td>
+        <td class="left">PLWSTIL00012</td>
+        <td>PLN</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>0,00</td>
+        <td>70,00</td>
+                <td>0,00</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0,00</td>
+    </tr>
+        <tr>
+        <td class="left">WITTCHEN</td>
+        <td class="left">PLWTCHN00030</td>
+        <td>PLN</td>
+        <td>17,60</td>
+        <td>17,60</td>
+        <td>16,80</td>
+        <td>17,00</td>
+                <td>-0,58</td>
+        <td>1&nbsp;147</td>
+        <td>10</td>
+        <td>19,56</td>
+    </tr>
+        <tr>
+        <td class="left">WOJAS</td>
+        <td class="left">PLWOJAS00014</td>
+        <td>PLN</td>
+        <td>5,15</td>
+        <td>5,19</td>
+        <td>5,12</td>
+        <td>5,12</td>
+                <td>-0,58</td>
+        <td>7&nbsp;598</td>
+        <td>10</td>
+        <td>39,13</td>
+    </tr>
+        <tr>
+        <td class="left">WORKSERV</td>
+        <td class="left">PLWRKSR00019</td>
+        <td>PLN</td>
+        <td>9,69</td>
+        <td>9,69</td>
+        <td>9,55</td>
+        <td>9,55</td>
+                <td>-0,52</td>
+        <td>211</td>
+        <td>4</td>
+        <td>2,02</td>
+    </tr>
+        <tr>
+        <td class="left">XTB</td>
+        <td class="left">PLXTRDM00011</td>
+        <td>PLN</td>
+        <td>9,38</td>
+        <td>9,63</td>
+        <td>9,38</td>
+        <td>9,63</td>
+                <td>1,37</td>
+        <td>11&nbsp;122</td>
+        <td>31</td>
+        <td>106,05</td>
+    </tr>
+        <tr>
+        <td class="left">YOLO</td>
+        <td class="left">PLPRESC00018</td>
+        <td>PLN</td>
+        <td>6,84</td>
+        <td>6,84</td>
+        <td>6,70</td>
+        <td>6,81</td>
+                <td>0,00</td>
+        <td>2&nbsp;097</td>
+        <td>13</td>
+        <td>14,17</td>
+    </tr>
+        <tr>
+        <td class="left">ZAMET</td>
+        <td class="left">PLZAMET00010</td>
+        <td>PLN</td>
+        <td>1,60</td>
+        <td>1,69</td>
+        <td>1,60</td>
+        <td>1,69</td>
+                <td>0,00</td>
+        <td>14&nbsp;029</td>
+        <td>10</td>
+        <td>23,26</td>
+    </tr>
+        <tr>
+        <td class="left">ZASTAL</td>
+        <td class="left">PLZSTAL00012</td>
+        <td>PLN</td>
+        <td>0,32</td>
+        <td>0,33</td>
+        <td>0,32</td>
+        <td>0,33</td>
+                <td>6,45</td>
+        <td>72&nbsp;868</td>
+        <td>18</td>
+        <td>23,89</td>
+    </tr>
+        <tr>
+        <td class="left">ZEPAK</td>
+        <td class="left">PLZEPAK00012</td>
+        <td>PLN</td>
+        <td>18,88</td>
+        <td>18,98</td>
+        <td>18,24</td>
+        <td>18,70</td>
+                <td>-0,53</td>
+        <td>149&nbsp;182</td>
+        <td>145</td>
+        <td>2&nbsp;798,34</td>
+    </tr>
+        <tr>
+        <td class="left">ZPUE</td>
+        <td class="left">PLZPUE000012</td>
+        <td>PLN</td>
+        <td>389,95</td>
+        <td>389,95</td>
+        <td>384,00</td>
+        <td>384,00</td>
+                <td>0,00</td>
+        <td>241</td>
+        <td>12</td>
+        <td>92,72</td>
+    </tr>
+        <tr>
+        <td class="left">ZREMB</td>
+        <td class="left">PLZBMZC00019</td>
+        <td>PLN</td>
+        <td>0,55</td>
+        <td>0,55</td>
+        <td>0,55</td>
+        <td>0,55</td>
+                <td>0,00</td>
+        <td>4&nbsp;795</td>
+        <td>5</td>
+        <td>2,64</td>
+    </tr>
+        <tr>
+        <td class="left">ZUE</td>
+        <td class="left">PLZUE0000015</td>
+        <td>PLN</td>
+        <td>10,86</td>
+        <td>10,86</td>
+        <td>10,80</td>
+        <td>10,82</td>
+                <td>3,54</td>
+        <td>652</td>
+        <td>5</td>
+        <td>7,06</td>
+    </tr>
+        <tr>
+        <td class="left">ZYWIEC</td>
+        <td class="left">PLZYWIC00016</td>
+        <td>PLN</td>
+        <td>450,00</td>
+        <td>458,50</td>
+        <td>448,00</td>
+        <td>451,00</td>
+                <td>0,45</td>
+        <td>142</td>
+        <td>16</td>
+        <td>64,26</td>
+    </tr>
+    </table>
+
+<p>* Jest to zmiana kursu ostatniej transakcji do kursu odniesienia. W dniu wygasania opcji jest to zmiana  kursu rozliczeniowego do kursu odniesienia.</p>
+	
+
+<div class="right more02 mb20px"><a href="javascript:history.back();">powrót</a></div>
+	
+	<!--/UdmComment-->
+	</div>
+</body>
+</html>

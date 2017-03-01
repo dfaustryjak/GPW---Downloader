@@ -2,15 +2,17 @@ from __future__ import print_function
 from datetime import date, datetime, timedelta
 import mysql.connector
 
-from auth_data import data_for_auth
+import auth_data
 
 #name,open,max,min,close,data,percent_change,volume,transactions,value_of_trading
 def insert_to_database(name,open_value,max,min,close,date,percent_change,volume,transactions,value_of_trading):
+
+    data_for_auth = auth_data.data_for_auth()
     config = {
-        'user': 'data',
-        'password': 'alamakota',
-        'host': '10.105.10.196',
-        'database': 'actions',
+        'user': data_for_auth[0],
+        'password': data_for_auth[1],
+        'host': data_for_auth[2],
+        'database': data_for_auth[3],
         'raise_on_warnings': True,
         'use_pure': False,
     }
